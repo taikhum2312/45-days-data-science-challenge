@@ -8,3 +8,4 @@ def word_frequency(sentence=input("enter a string")):
             frequency[word]=1
         print("word:", word, "frequency:", frequency)
 word_frequency()
+
