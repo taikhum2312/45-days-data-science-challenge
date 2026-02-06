@@ -1,0 +1,17 @@
+What confused me today?
+ans: the merge dictionary and the second largest number in a list
+ part confuse me as my dictionary topic is not fullyclear.
+
+What became clearer?
+ans: how to use function and loops part became more clear as i used
+them in almost every question with different conditions.
+
+One mistake I kept repeating
+ans: the mistakei keep repeatingwas i try to solve the question
+ without converting it into small step which sometimes makes
+ simple question feel more hard to solve.
+
+One thing I did better than Day 1
+ans: one thinf that i did better was i now try to understand 
+what python is and how it works and now i am getting to understand
+ what i am writing rather than just typing like robot.
