@@ -1,0 +1,1001 @@
+OrderID,OrderDate,Region,Country,State,City,CustomerID,CustomerName,ProductCategory,ProductName,Brand,Quantity,UnitPrice,Discount,Sales,Profit,PaymentMode
+1001,1/22/2024,Asia,India,Madhya Pradesh,Jabalpur,C001,Customer_1,Electronics,iPhone 15,Apple,5,45000,20%,180000,21600,Cash
+1002,1/19/2024,Asia,India,Delhi,Ghaziabad,C002,Customer_2,Furniture,OfficeDesk,Featherlite,1,55000,5%,52250,6270,Credit Card
+1003,1/26/2024,Asia,India,Madhya Pradesh,Gwalior,C003,Customer_3,Furniture,OfficeDesk,Featherlite,5,45000,10%,202500,24300,Credit Card
+1004,1/25/2024,Asia,India,Madhya Pradesh,Jabalpur,C004,Customer_4,Electronics,iPhone 15,Apple,1,45000,10%,40500,4860,UPI
+1005,1/20/2024,Asia,India,Delhi,Ghaziabad,C005,Customer_5,Electronics,Inspiron 15,Dell,5,55000,20%,220000,26400,Cash
+1006,1/12/2024,Asia,India,Gujarat,Surat,C006,Customer_6,Electronics,iPhone 15,Apple,2,8000,20%,12800,1536,UPI
+1007,1/24/2024,Asia,India,Madhya Pradesh,Bhopal,C007,Customer_7,Furniture,OfficeDesk,Featherlite,4,55000,10%,198000,23760,Credit Card
+1008,1/24/2024,Asia,India,Madhya Pradesh,Bhopal,C008,Customer_8,Electronics,iPhone 15,Apple,1,8000,5%,7600,912,Cash
+1009,1/25/2024,Asia,India,Delhi,New Delhi,C009,Customer_9,Electronics,iPhone 15,Apple,5,8000,20%,32000,3840,Cash
+1010,1/8/2024,Asia,India,Madhya Pradesh,Jabalpur,C010,Customer_10,Electronics,iPhone 15,Apple,1,12000,10%,10800,1296,Credit Card
+1011,1/3/2024,Asia,India,Maharashtra,Nagpur,C011,Customer_11,Electronics,iPhone 15,Apple,1,8000,20%,6400,768,Net Banking
+1012,1/4/2024,Asia,India,Gujarat,Vadodara,C012,Customer_12,Furniture,OfficeDesk,Featherlite,1,45000,20%,36000,4320,Credit Card
+1013,1/25/2024,Asia,India,Delhi,Ghaziabad,C013,Customer_13,Electronics,Inspiron 15,Dell,5,12000,20%,48000,5760,Credit Card
+1014,1/13/2024,Asia,India,Madhya Pradesh,Bhopal,C014,Customer_14,Furniture,OfficeDesk,Featherlite,1,8000,20%,6400,768,Net Banking
+1015,1/6/2024,Asia,India,Maharashtra,Pune,C015,Customer_15,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,Net Banking
+1016,1/27/2024,Asia,India,Maharashtra,Mumbai,C016,Customer_16,Electronics,Inspiron 15,Dell,1,45000,5%,42750,5130,Credit Card
+1017,1/11/2024,Asia,India,Gujarat,Surat,C017,Customer_17,Electronics,Inspiron 15,Dell,3,55000,10%,148500,17820,Net Banking
+1018,1/16/2024,Asia,India,Gujarat,Vadodara,C018,Customer_18,Electronics,Inspiron 15,Dell,3,12000,20%,28800,3456,Credit Card
+1019,1/8/2024,Asia,India,Gujarat,Vadodara,C019,Customer_19,Furniture,ErgoChair,IKEA,4,12000,5%,45600,5472,Cash
+1020,1/23/2024,Asia,India,Delhi,Noida,C020,Customer_20,Electronics,Inspiron 15,Dell,3,12000,5%,34200,4104,Cash
+1021,1/1/2024,Asia,India,Gujarat,Vadodara,C021,Customer_21,Electronics,Inspiron 15,Dell,2,12000,20%,19200,2304,UPI
+1022,1/9/2024,Asia,India,Gujarat,Ahmedabad,C022,Customer_22,Electronics,Inspiron 15,Dell,5,8000,10%,36000,4320,Credit Card
+1023,1/2/2024,Asia,India,Maharashtra,Pune,C023,Customer_23,Furniture,ErgoChair,IKEA,5,45000,10%,202500,24300,Cash
+1024,1/17/2024,Asia,India,Delhi,Ghaziabad,C024,Customer_24,Furniture,OfficeDesk,Featherlite,5,12000,20%,48000,5760,UPI
+1025,1/10/2024,Asia,India,Gujarat,Vadodara,C025,Customer_25,Electronics,Inspiron 15,Dell,2,12000,10%,21600,2592,Net Banking
+1026,1/8/2024,Asia,India,Gujarat,Vadodara,C026,Customer_26,Furniture,OfficeDesk,Featherlite,3,12000,20%,28800,3456,UPI
+1027,1/29/2024,Asia,India,Madhya Pradesh,Gwalior,C027,Customer_27,Furniture,OfficeDesk,Featherlite,5,55000,5%,261250,31350,Cash
+1028,1/29/2024,Asia,India,Madhya Pradesh,Bhopal,C028,Customer_28,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,UPI
+1029,1/1/2024,Asia,India,Gujarat,Surat,C029,Customer_29,Electronics,Inspiron 15,Dell,1,8000,10%,7200,864,Credit Card
+1030,1/18/2024,Asia,India,Gujarat,Vadodara,C030,Customer_30,Electronics,iPhone 15,Apple,2,45000,20%,72000,8640,UPI
+1031,1/23/2024,Asia,India,Maharashtra,Mumbai,C031,Customer_31,Furniture,OfficeDesk,Featherlite,1,8000,5%,7600,912,UPI
+1032,1/4/2024,Asia,India,Madhya Pradesh,Gwalior,C032,Customer_32,Furniture,OfficeDesk,Featherlite,5,8000,10%,36000,4320,Credit Card
+1033,1/9/2024,Asia,India,Madhya Pradesh,Indore,C033,Customer_33,Furniture,ErgoChair,IKEA,4,8000,20%,25600,3072,Credit Card
+1034,1/28/2024,Asia,India,Gujarat,Vadodara,C034,Customer_34,Furniture,OfficeDesk,Featherlite,4,12000,20%,38400,4608,UPI
+1035,1/30/2024,Asia,India,Gujarat,Surat,C035,Customer_35,Electronics,iPhone 15,Apple,3,12000,10%,32400,3888,Credit Card
+1036,1/8/2024,Asia,India,Maharashtra,Mumbai,C036,Customer_36,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,Cash
+1037,1/13/2024,Asia,India,Delhi,New Delhi,C037,Customer_37,Electronics,iPhone 15,Apple,4,45000,10%,162000,19440,Credit Card
+1038,1/27/2024,Asia,India,Maharashtra,Mumbai,C038,Customer_38,Electronics,Inspiron 15,Dell,5,12000,5%,57000,6840,Credit Card
+1039,1/4/2024,Asia,India,Maharashtra,Pune,C039,Customer_39,Electronics,Inspiron 15,Dell,4,45000,5%,171000,20520,Credit Card
+1040,1/18/2024,Asia,India,Delhi,Ghaziabad,C040,Customer_40,Electronics,Inspiron 15,Dell,4,55000,20%,176000,21120,Net Banking
+1041,1/28/2024,Asia,India,Madhya Pradesh,Bhopal,C041,Customer_41,Furniture,OfficeDesk,Featherlite,2,45000,5%,85500,10260,Credit Card
+1042,1/27/2024,Asia,India,Gujarat,Ahmedabad,C042,Customer_42,Furniture,OfficeDesk,Featherlite,3,8000,5%,22800,2736,UPI
+1043,1/26/2024,Asia,India,Gujarat,Surat,C043,Customer_43,Electronics,iPhone 15,Apple,1,12000,10%,10800,1296,Cash
+1044,1/10/2024,Asia,India,Madhya Pradesh,Gwalior,C044,Customer_44,Electronics,Inspiron 15,Dell,3,8000,20%,19200,2304,UPI
+1045,1/22/2024,Asia,India,Maharashtra,Nagpur,C045,Customer_45,Furniture,OfficeDesk,Featherlite,5,8000,10%,36000,4320,Net Banking
+1046,1/7/2024,Asia,India,Delhi,New Delhi,C046,Customer_46,Furniture,ErgoChair,IKEA,3,8000,20%,19200,2304,Net Banking
+1047,1/13/2024,Asia,India,Maharashtra,Nagpur,C047,Customer_47,Furniture,ErgoChair,IKEA,1,45000,5%,42750,5130,Credit Card
+1048,1/1/2024,Asia,India,Madhya Pradesh,Gwalior,C048,Customer_48,Electronics,iPhone 15,Apple,4,8000,5%,30400,3648,Credit Card
+1049,1/5/2024,Asia,India,Maharashtra,Nagpur,C049,Customer_49,Electronics,iPhone 15,Apple,2,8000,20%,12800,1536,Net Banking
+1050,1/7/2024,Asia,India,Gujarat,Vadodara,C050,Customer_50,Electronics,Inspiron 15,Dell,2,8000,5%,15200,1824,UPI
+1051,1/29/2024,Asia,India,Gujarat,Surat,C051,Customer_51,Furniture,OfficeDesk,Featherlite,3,45000,20%,108000,12960,UPI
+1052,1/25/2024,Asia,India,Gujarat,Surat,C052,Customer_52,Furniture,ErgoChair,IKEA,4,8000,5%,30400,3648,Cash
+1053,1/13/2024,Asia,India,Madhya Pradesh,Gwalior,C053,Customer_53,Electronics,Inspiron 15,Dell,4,45000,5%,171000,20520,Cash
+1054,1/31/2024,Asia,India,Gujarat,Ahmedabad,C054,Customer_54,Furniture,ErgoChair,IKEA,3,8000,10%,21600,2592,UPI
+1055,1/22/2024,Asia,India,Delhi,Noida,C055,Customer_55,Electronics,Inspiron 15,Dell,2,12000,5%,22800,2736,Net Banking
+1056,1/5/2024,Asia,India,Delhi,Noida,C056,Customer_56,Electronics,Inspiron 15,Dell,1,12000,20%,9600,1152,Cash
+1057,1/20/2024,Asia,India,Madhya Pradesh,Indore,C057,Customer_57,Electronics,Inspiron 15,Dell,4,45000,10%,162000,19440,Net Banking
+1058,1/14/2024,Asia,India,Maharashtra,Pune,C058,Customer_58,Furniture,OfficeDesk,Featherlite,5,12000,5%,57000,6840,Cash
+1059,1/8/2024,Asia,India,Delhi,Ghaziabad,C059,Customer_59,Furniture,OfficeDesk,Featherlite,1,55000,5%,52250,6270,Net Banking
+1060,1/23/2024,Asia,India,Delhi,Ghaziabad,C060,Customer_60,Electronics,iPhone 15,Apple,1,8000,5%,7600,912,Net Banking
+1061,1/15/2024,Asia,India,Madhya Pradesh,Gwalior,C061,Customer_61,Furniture,OfficeDesk,Featherlite,1,45000,20%,36000,4320,UPI
+1062,1/3/2024,Asia,India,Gujarat,Vadodara,C062,Customer_62,Furniture,ErgoChair,IKEA,1,55000,5%,52250,6270,Credit Card
+1063,1/14/2024,Asia,India,Gujarat,Vadodara,C063,Customer_63,Electronics,Inspiron 15,Dell,1,12000,10%,10800,1296,Cash
+1064,1/7/2024,Asia,India,Gujarat,Ahmedabad,C064,Customer_64,Furniture,OfficeDesk,Featherlite,1,12000,5%,11400,1368,UPI
+1065,1/1/2024,Asia,India,Madhya Pradesh,Indore,C065,Customer_65,Electronics,iPhone 15,Apple,1,12000,20%,9600,1152,UPI
+1066,1/10/2024,Asia,India,Maharashtra,Mumbai,C066,Customer_66,Furniture,OfficeDesk,Featherlite,5,12000,20%,48000,5760,Net Banking
+1067,1/10/2024,Asia,India,Gujarat,Surat,C067,Customer_67,Electronics,Inspiron 15,Dell,2,45000,20%,72000,8640,Credit Card
+1068,1/31/2024,Asia,India,Madhya Pradesh,Indore,C068,Customer_68,Electronics,Inspiron 15,Dell,2,8000,10%,14400,1728,Credit Card
+1069,1/16/2024,Asia,India,Gujarat,Ahmedabad,C069,Customer_69,Electronics,iPhone 15,Apple,5,8000,5%,38000,4560,Cash
+1070,1/31/2024,Asia,India,Gujarat,Surat,C070,Customer_70,Furniture,ErgoChair,IKEA,1,55000,20%,44000,5280,Cash
+1071,1/1/2024,Asia,India,Gujarat,Surat,C071,Customer_71,Furniture,OfficeDesk,Featherlite,3,8000,10%,21600,2592,Credit Card
+1072,1/3/2024,Asia,India,Delhi,New Delhi,C072,Customer_72,Electronics,Inspiron 15,Dell,2,45000,20%,72000,8640,Cash
+1073,1/2/2024,Asia,India,Gujarat,Ahmedabad,C073,Customer_73,Furniture,ErgoChair,IKEA,1,55000,20%,44000,5280,Credit Card
+1074,1/23/2024,Asia,India,Delhi,Noida,C074,Customer_74,Electronics,iPhone 15,Apple,1,8000,20%,6400,768,UPI
+1075,1/5/2024,Asia,India,Maharashtra,Nagpur,C075,Customer_75,Furniture,ErgoChair,IKEA,4,8000,10%,28800,3456,UPI
+1076,1/31/2024,Asia,India,Delhi,New Delhi,C076,Customer_76,Electronics,iPhone 15,Apple,2,55000,5%,104500,12540,Cash
+1077,1/8/2024,Asia,India,Gujarat,Vadodara,C077,Customer_77,Furniture,ErgoChair,IKEA,4,45000,20%,144000,17280,UPI
+1078,1/12/2024,Asia,India,Delhi,Ghaziabad,C078,Customer_78,Electronics,iPhone 15,Apple,4,45000,20%,144000,17280,Cash
+1079,1/13/2024,Asia,India,Maharashtra,Nagpur,C079,Customer_79,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,Cash
+1080,1/29/2024,Asia,India,Delhi,New Delhi,C080,Customer_80,Furniture,OfficeDesk,Featherlite,3,8000,10%,21600,2592,Cash
+1081,1/12/2024,Asia,India,Gujarat,Vadodara,C081,Customer_81,Electronics,iPhone 15,Apple,2,12000,5%,22800,2736,Cash
+1082,1/4/2024,Asia,India,Maharashtra,Pune,C082,Customer_82,Furniture,OfficeDesk,Featherlite,3,12000,5%,34200,4104,Net Banking
+1083,1/1/2024,Asia,India,Madhya Pradesh,Gwalior,C083,Customer_83,Furniture,OfficeDesk,Featherlite,4,12000,5%,45600,5472,Cash
+1084,1/14/2024,Asia,India,Gujarat,Vadodara,C084,Customer_84,Electronics,Inspiron 15,Dell,5,12000,10%,54000,6480,Cash
+1085,1/19/2024,Asia,India,Maharashtra,Pune,C085,Customer_85,Electronics,Inspiron 15,Dell,4,55000,10%,198000,23760,Credit Card
+1086,1/22/2024,Asia,India,Delhi,Ghaziabad,C086,Customer_86,Furniture,ErgoChair,IKEA,1,55000,5%,52250,6270,Cash
+1087,1/25/2024,Asia,India,Gujarat,Ahmedabad,C087,Customer_87,Electronics,iPhone 15,Apple,1,45000,20%,36000,4320,Cash
+1088,1/26/2024,Asia,India,Maharashtra,Pune,C088,Customer_88,Furniture,ErgoChair,IKEA,2,45000,5%,85500,10260,Net Banking
+1089,1/18/2024,Asia,India,Maharashtra,Mumbai,C089,Customer_89,Electronics,Inspiron 15,Dell,1,45000,20%,36000,4320,Credit Card
+1090,1/7/2024,Asia,India,Maharashtra,Pune,C090,Customer_90,Electronics,iPhone 15,Apple,4,45000,10%,162000,19440,Cash
+1091,1/30/2024,Asia,India,Madhya Pradesh,Indore,C091,Customer_91,Electronics,iPhone 15,Apple,5,8000,10%,36000,4320,UPI
+1092,1/22/2024,Asia,India,Madhya Pradesh,Jabalpur,C092,Customer_92,Electronics,Inspiron 15,Dell,5,12000,5%,57000,6840,Credit Card
+1093,1/17/2024,Asia,India,Delhi,Ghaziabad,C093,Customer_93,Furniture,ErgoChair,IKEA,3,45000,20%,108000,12960,Credit Card
+1094,1/16/2024,Asia,India,Madhya Pradesh,Bhopal,C094,Customer_94,Electronics,iPhone 15,Apple,5,55000,20%,220000,26400,Credit Card
+1095,1/19/2024,Asia,India,Maharashtra,Mumbai,C095,Customer_95,Electronics,Inspiron 15,Dell,3,8000,20%,19200,2304,Net Banking
+1096,1/17/2024,Asia,India,Maharashtra,Nagpur,C096,Customer_96,Electronics,iPhone 15,Apple,1,8000,5%,7600,912,Net Banking
+1097,1/21/2024,Asia,India,Maharashtra,Nagpur,C097,Customer_97,Electronics,Inspiron 15,Dell,3,8000,10%,21600,2592,Credit Card
+1098,1/1/2024,Asia,India,Maharashtra,Nagpur,C098,Customer_98,Electronics,iPhone 15,Apple,4,55000,5%,209000,25080,Net Banking
+1099,1/31/2024,Asia,India,Madhya Pradesh,Gwalior,C099,Customer_99,Furniture,ErgoChair,IKEA,1,45000,5%,42750,5130,Credit Card
+1100,1/31/2024,Asia,India,Madhya Pradesh,Gwalior,C100,Customer_100,Electronics,Inspiron 15,Dell,1,55000,20%,44000,5280,Net Banking
+1101,1/2/2024,Asia,India,Madhya Pradesh,Bhopal,C101,Customer_101,Furniture,ErgoChair,IKEA,1,12000,10%,10800,1296,Credit Card
+1102,1/4/2024,Asia,India,Delhi,New Delhi,C102,Customer_102,Furniture,ErgoChair,IKEA,2,55000,10%,99000,11880,UPI
+1103,1/12/2024,Asia,India,Maharashtra,Pune,C103,Customer_103,Electronics,iPhone 15,Apple,1,55000,20%,44000,5280,Net Banking
+1104,1/13/2024,Asia,India,Delhi,Ghaziabad,C104,Customer_104,Electronics,iPhone 15,Apple,2,8000,10%,14400,1728,Cash
+1105,1/19/2024,Asia,India,Delhi,Noida,C105,Customer_105,Furniture,OfficeDesk,Featherlite,4,8000,10%,28800,3456,UPI
+1106,1/25/2024,Asia,India,Delhi,Ghaziabad,C106,Customer_106,Furniture,OfficeDesk,Featherlite,3,8000,5%,22800,2736,Credit Card
+1107,1/8/2024,Asia,India,Gujarat,Ahmedabad,C107,Customer_107,Furniture,OfficeDesk,Featherlite,5,55000,10%,247500,29700,UPI
+1108,1/19/2024,Asia,India,Gujarat,Surat,C108,Customer_108,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,Cash
+1109,1/8/2024,Asia,India,Maharashtra,Nagpur,C109,Customer_109,Furniture,ErgoChair,IKEA,1,8000,20%,6400,768,UPI
+1110,1/5/2024,Asia,India,Gujarat,Surat,C110,Customer_110,Furniture,OfficeDesk,Featherlite,1,8000,10%,7200,864,Net Banking
+1111,1/24/2024,Asia,India,Maharashtra,Pune,C111,Customer_111,Furniture,OfficeDesk,Featherlite,4,12000,5%,45600,5472,UPI
+1112,1/1/2024,Asia,India,Madhya Pradesh,Gwalior,C112,Customer_112,Furniture,ErgoChair,IKEA,1,8000,20%,6400,768,UPI
+1113,1/3/2024,Asia,India,Gujarat,Vadodara,C113,Customer_113,Electronics,iPhone 15,Apple,3,8000,20%,19200,2304,Cash
+1114,1/19/2024,Asia,India,Delhi,Noida,C114,Customer_114,Furniture,ErgoChair,IKEA,5,8000,20%,32000,3840,Net Banking
+1115,1/2/2024,Asia,India,Gujarat,Surat,C115,Customer_115,Electronics,Inspiron 15,Dell,4,8000,5%,30400,3648,UPI
+1116,1/28/2024,Asia,India,Gujarat,Vadodara,C116,Customer_116,Furniture,OfficeDesk,Featherlite,3,12000,20%,28800,3456,Net Banking
+1117,1/8/2024,Asia,India,Gujarat,Vadodara,C117,Customer_117,Furniture,ErgoChair,IKEA,4,55000,20%,176000,21120,Credit Card
+1118,1/20/2024,Asia,India,Delhi,New Delhi,C118,Customer_118,Electronics,iPhone 15,Apple,1,55000,20%,44000,5280,Net Banking
+1119,1/29/2024,Asia,India,Gujarat,Surat,C119,Customer_119,Furniture,OfficeDesk,Featherlite,4,12000,20%,38400,4608,Net Banking
+1120,1/13/2024,Asia,India,Maharashtra,Mumbai,C120,Customer_120,Electronics,Inspiron 15,Dell,2,45000,10%,81000,9720,Net Banking
+1121,1/5/2024,Asia,India,Gujarat,Ahmedabad,C121,Customer_121,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,UPI
+1122,1/2/2024,Asia,India,Gujarat,Vadodara,C122,Customer_122,Furniture,OfficeDesk,Featherlite,3,55000,10%,148500,17820,Cash
+1123,1/28/2024,Asia,India,Gujarat,Vadodara,C123,Customer_123,Furniture,ErgoChair,IKEA,4,8000,20%,25600,3072,UPI
+1124,1/27/2024,Asia,India,Madhya Pradesh,Bhopal,C124,Customer_124,Furniture,OfficeDesk,Featherlite,3,8000,20%,19200,2304,UPI
+1125,1/27/2024,Asia,India,Delhi,Noida,C125,Customer_125,Electronics,Inspiron 15,Dell,4,8000,10%,28800,3456,Cash
+1126,1/15/2024,Asia,India,Delhi,New Delhi,C126,Customer_126,Furniture,OfficeDesk,Featherlite,2,45000,5%,85500,10260,UPI
+1127,1/30/2024,Asia,India,Gujarat,Surat,C127,Customer_127,Electronics,iPhone 15,Apple,4,45000,10%,162000,19440,Cash
+1128,1/31/2024,Asia,India,Maharashtra,Nagpur,C128,Customer_128,Electronics,Inspiron 15,Dell,3,12000,5%,34200,4104,Net Banking
+1129,1/5/2024,Asia,India,Maharashtra,Mumbai,C129,Customer_129,Electronics,iPhone 15,Apple,3,55000,5%,156750,18810,Net Banking
+1130,1/21/2024,Asia,India,Gujarat,Vadodara,C130,Customer_130,Electronics,Inspiron 15,Dell,5,12000,10%,54000,6480,Net Banking
+1131,1/24/2024,Asia,India,Madhya Pradesh,Bhopal,C131,Customer_131,Furniture,OfficeDesk,Featherlite,4,8000,5%,30400,3648,Net Banking
+1132,1/24/2024,Asia,India,Madhya Pradesh,Jabalpur,C132,Customer_132,Furniture,OfficeDesk,Featherlite,4,8000,10%,28800,3456,Net Banking
+1133,1/23/2024,Asia,India,Delhi,New Delhi,C133,Customer_133,Furniture,OfficeDesk,Featherlite,4,8000,5%,30400,3648,Cash
+1134,1/22/2024,Asia,India,Delhi,Noida,C134,Customer_134,Electronics,Inspiron 15,Dell,3,12000,20%,28800,3456,Net Banking
+1135,1/8/2024,Asia,India,Maharashtra,Nagpur,C135,Customer_135,Furniture,OfficeDesk,Featherlite,5,8000,5%,38000,4560,Net Banking
+1136,1/24/2024,Asia,India,Madhya Pradesh,Bhopal,C136,Customer_136,Electronics,Inspiron 15,Dell,1,8000,20%,6400,768,Credit Card
+1137,1/31/2024,Asia,India,Maharashtra,Mumbai,C137,Customer_137,Electronics,iPhone 15,Apple,1,55000,10%,49500,5940,Credit Card
+1138,1/8/2024,Asia,India,Gujarat,Ahmedabad,C138,Customer_138,Electronics,iPhone 15,Apple,2,45000,10%,81000,9720,UPI
+1139,1/7/2024,Asia,India,Madhya Pradesh,Bhopal,C139,Customer_139,Furniture,ErgoChair,IKEA,1,55000,20%,44000,5280,Cash
+1140,1/26/2024,Asia,India,Delhi,New Delhi,C140,Customer_140,Furniture,ErgoChair,IKEA,4,45000,20%,144000,17280,Cash
+1141,1/29/2024,Asia,India,Gujarat,Ahmedabad,C141,Customer_141,Electronics,Inspiron 15,Dell,4,55000,20%,176000,21120,Credit Card
+1142,1/22/2024,Asia,India,Maharashtra,Pune,C142,Customer_142,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,UPI
+1143,1/9/2024,Asia,India,Delhi,Ghaziabad,C143,Customer_143,Electronics,Inspiron 15,Dell,4,55000,10%,198000,23760,UPI
+1144,1/20/2024,Asia,India,Madhya Pradesh,Jabalpur,C144,Customer_144,Furniture,ErgoChair,IKEA,1,45000,10%,40500,4860,Credit Card
+1145,1/21/2024,Asia,India,Delhi,New Delhi,C145,Customer_145,Furniture,ErgoChair,IKEA,4,12000,10%,43200,5184,Net Banking
+1146,1/30/2024,Asia,India,Maharashtra,Pune,C146,Customer_146,Electronics,Inspiron 15,Dell,4,8000,10%,28800,3456,Credit Card
+1147,1/3/2024,Asia,India,Maharashtra,Nagpur,C147,Customer_147,Furniture,ErgoChair,IKEA,4,45000,5%,171000,20520,UPI
+1148,1/9/2024,Asia,India,Maharashtra,Mumbai,C148,Customer_148,Furniture,ErgoChair,IKEA,1,55000,20%,44000,5280,Cash
+1149,1/29/2024,Asia,India,Delhi,Ghaziabad,C149,Customer_149,Electronics,iPhone 15,Apple,3,45000,5%,128250,15390,Net Banking
+1150,1/3/2024,Asia,India,Gujarat,Surat,C150,Customer_150,Furniture,OfficeDesk,Featherlite,4,12000,20%,38400,4608,UPI
+1151,1/11/2024,Asia,India,Maharashtra,Pune,C151,Customer_151,Electronics,Inspiron 15,Dell,1,12000,10%,10800,1296,Credit Card
+1152,1/16/2024,Asia,India,Maharashtra,Nagpur,C152,Customer_152,Furniture,ErgoChair,IKEA,2,45000,20%,72000,8640,Credit Card
+1153,1/17/2024,Asia,India,Delhi,New Delhi,C153,Customer_153,Furniture,OfficeDesk,Featherlite,1,12000,5%,11400,1368,Credit Card
+1154,1/26/2024,Asia,India,Madhya Pradesh,Gwalior,C154,Customer_154,Furniture,OfficeDesk,Featherlite,2,8000,5%,15200,1824,Net Banking
+1155,1/12/2024,Asia,India,Gujarat,Ahmedabad,C155,Customer_155,Furniture,OfficeDesk,Featherlite,5,55000,20%,220000,26400,Net Banking
+1156,1/18/2024,Asia,India,Madhya Pradesh,Jabalpur,C156,Customer_156,Electronics,iPhone 15,Apple,1,8000,10%,7200,864,UPI
+1157,1/31/2024,Asia,India,Gujarat,Ahmedabad,C157,Customer_157,Furniture,OfficeDesk,Featherlite,3,55000,10%,148500,17820,Net Banking
+1158,1/5/2024,Asia,India,Maharashtra,Nagpur,C158,Customer_158,Electronics,iPhone 15,Apple,5,8000,20%,32000,3840,Cash
+1159,1/15/2024,Asia,India,Gujarat,Vadodara,C159,Customer_159,Electronics,Inspiron 15,Dell,4,45000,5%,171000,20520,Net Banking
+1160,1/1/2024,Asia,India,Gujarat,Surat,C160,Customer_160,Electronics,Inspiron 15,Dell,2,12000,5%,22800,2736,Cash
+1161,1/31/2024,Asia,India,Gujarat,Surat,C161,Customer_161,Furniture,ErgoChair,IKEA,3,45000,5%,128250,15390,Net Banking
+1162,1/14/2024,Asia,India,Gujarat,Ahmedabad,C162,Customer_162,Electronics,Inspiron 15,Dell,1,8000,5%,7600,912,Credit Card
+1163,1/25/2024,Asia,India,Maharashtra,Mumbai,C163,Customer_163,Electronics,Inspiron 15,Dell,4,45000,20%,144000,17280,Cash
+1164,1/31/2024,Asia,India,Gujarat,Surat,C164,Customer_164,Furniture,OfficeDesk,Featherlite,3,12000,20%,28800,3456,Cash
+1165,1/4/2024,Asia,India,Maharashtra,Nagpur,C165,Customer_165,Furniture,OfficeDesk,Featherlite,2,12000,5%,22800,2736,Cash
+1166,1/27/2024,Asia,India,Madhya Pradesh,Indore,C166,Customer_166,Electronics,iPhone 15,Apple,5,8000,20%,32000,3840,Credit Card
+1167,1/1/2024,Asia,India,Delhi,Ghaziabad,C167,Customer_167,Furniture,ErgoChair,IKEA,5,12000,20%,48000,5760,UPI
+1168,1/31/2024,Asia,India,Delhi,Ghaziabad,C168,Customer_168,Electronics,Inspiron 15,Dell,1,12000,10%,10800,1296,Credit Card
+1169,1/21/2024,Asia,India,Maharashtra,Nagpur,C169,Customer_169,Electronics,Inspiron 15,Dell,1,45000,5%,42750,5130,Credit Card
+1170,1/13/2024,Asia,India,Maharashtra,Mumbai,C170,Customer_170,Furniture,OfficeDesk,Featherlite,2,12000,20%,19200,2304,Net Banking
+1171,1/2/2024,Asia,India,Madhya Pradesh,Gwalior,C171,Customer_171,Furniture,OfficeDesk,Featherlite,4,8000,5%,30400,3648,Credit Card
+1172,1/30/2024,Asia,India,Madhya Pradesh,Indore,C172,Customer_172,Furniture,OfficeDesk,Featherlite,5,12000,5%,57000,6840,UPI
+1173,1/10/2024,Asia,India,Delhi,New Delhi,C173,Customer_173,Furniture,ErgoChair,IKEA,3,8000,20%,19200,2304,Net Banking
+1174,1/7/2024,Asia,India,Maharashtra,Pune,C174,Customer_174,Electronics,Inspiron 15,Dell,1,8000,20%,6400,768,Net Banking
+1175,1/24/2024,Asia,India,Delhi,New Delhi,C175,Customer_175,Furniture,ErgoChair,IKEA,1,8000,5%,7600,912,Net Banking
+1176,1/15/2024,Asia,India,Delhi,Ghaziabad,C176,Customer_176,Furniture,OfficeDesk,Featherlite,3,12000,10%,32400,3888,UPI
+1177,1/18/2024,Asia,India,Maharashtra,Pune,C177,Customer_177,Electronics,Inspiron 15,Dell,2,8000,10%,14400,1728,Credit Card
+1178,1/25/2024,Asia,India,Gujarat,Ahmedabad,C178,Customer_178,Electronics,Inspiron 15,Dell,5,45000,5%,213750,25650,Net Banking
+1179,1/12/2024,Asia,India,Gujarat,Ahmedabad,C179,Customer_179,Electronics,Inspiron 15,Dell,2,8000,20%,12800,1536,Cash
+1180,1/14/2024,Asia,India,Gujarat,Ahmedabad,C180,Customer_180,Furniture,OfficeDesk,Featherlite,2,8000,20%,12800,1536,Net Banking
+1181,1/8/2024,Asia,India,Delhi,New Delhi,C181,Customer_181,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,UPI
+1182,1/10/2024,Asia,India,Gujarat,Surat,C182,Customer_182,Furniture,ErgoChair,IKEA,4,8000,10%,28800,3456,Credit Card
+1183,1/22/2024,Asia,India,Gujarat,Vadodara,C183,Customer_183,Furniture,OfficeDesk,Featherlite,3,12000,20%,28800,3456,UPI
+1184,1/15/2024,Asia,India,Delhi,New Delhi,C184,Customer_184,Furniture,ErgoChair,IKEA,5,8000,10%,36000,4320,Cash
+1185,1/25/2024,Asia,India,Gujarat,Surat,C185,Customer_185,Furniture,OfficeDesk,Featherlite,4,8000,20%,25600,3072,Cash
+1186,1/20/2024,Asia,India,Gujarat,Ahmedabad,C186,Customer_186,Electronics,Inspiron 15,Dell,3,55000,20%,132000,15840,Net Banking
+1187,1/12/2024,Asia,India,Madhya Pradesh,Gwalior,C187,Customer_187,Furniture,ErgoChair,IKEA,4,12000,20%,38400,4608,Cash
+1188,1/27/2024,Asia,India,Gujarat,Surat,C188,Customer_188,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,Cash
+1189,1/2/2024,Asia,India,Maharashtra,Mumbai,C189,Customer_189,Electronics,iPhone 15,Apple,2,55000,20%,88000,10560,Cash
+1190,1/9/2024,Asia,India,Gujarat,Ahmedabad,C190,Customer_190,Furniture,OfficeDesk,Featherlite,3,12000,10%,32400,3888,UPI
+1191,1/3/2024,Asia,India,Madhya Pradesh,Gwalior,C191,Customer_191,Furniture,OfficeDesk,Featherlite,4,45000,10%,162000,19440,Cash
+1192,1/24/2024,Asia,India,Maharashtra,Mumbai,C192,Customer_192,Furniture,ErgoChair,IKEA,4,8000,20%,25600,3072,UPI
+1193,1/16/2024,Asia,India,Madhya Pradesh,Indore,C193,Customer_193,Electronics,iPhone 15,Apple,1,55000,5%,52250,6270,UPI
+1194,1/21/2024,Asia,India,Madhya Pradesh,Jabalpur,C194,Customer_194,Electronics,iPhone 15,Apple,1,55000,5%,52250,6270,UPI
+1195,1/16/2024,Asia,India,Madhya Pradesh,Jabalpur,C195,Customer_195,Electronics,iPhone 15,Apple,4,55000,10%,198000,23760,Net Banking
+1196,1/12/2024,Asia,India,Delhi,Noida,C196,Customer_196,Electronics,Inspiron 15,Dell,2,12000,20%,19200,2304,UPI
+1197,1/15/2024,Asia,India,Maharashtra,Pune,C197,Customer_197,Electronics,Inspiron 15,Dell,5,55000,5%,261250,31350,UPI
+1198,1/2/2024,Asia,India,Delhi,Ghaziabad,C198,Customer_198,Furniture,ErgoChair,IKEA,3,45000,20%,108000,12960,Net Banking
+1199,1/9/2024,Asia,India,Gujarat,Surat,C199,Customer_199,Electronics,iPhone 15,Apple,2,12000,10%,21600,2592,Cash
+1200,1/22/2024,Asia,India,Maharashtra,Mumbai,C200,Customer_200,Furniture,OfficeDesk,Featherlite,4,8000,5%,30400,3648,Net Banking
+1201,1/7/2024,Asia,India,Madhya Pradesh,Bhopal,C201,Customer_201,Electronics,iPhone 15,Apple,3,45000,5%,128250,15390,Cash
+1202,1/24/2024,Asia,India,Madhya Pradesh,Bhopal,C202,Customer_202,Furniture,OfficeDesk,Featherlite,1,8000,20%,6400,768,Credit Card
+1203,1/8/2024,Asia,India,Gujarat,Ahmedabad,C203,Customer_203,Furniture,ErgoChair,IKEA,5,12000,10%,54000,6480,Net Banking
+1204,1/14/2024,Asia,India,Gujarat,Vadodara,C204,Customer_204,Electronics,Inspiron 15,Dell,2,55000,20%,88000,10560,UPI
+1205,1/21/2024,Asia,India,Maharashtra,Nagpur,C205,Customer_205,Furniture,ErgoChair,IKEA,5,12000,10%,54000,6480,Net Banking
+1206,1/6/2024,Asia,India,Madhya Pradesh,Indore,C206,Customer_206,Electronics,Inspiron 15,Dell,3,55000,5%,156750,18810,Net Banking
+1207,1/7/2024,Asia,India,Maharashtra,Nagpur,C207,Customer_207,Electronics,Inspiron 15,Dell,1,12000,5%,11400,1368,Cash
+1208,1/28/2024,Asia,India,Delhi,New Delhi,C208,Customer_208,Furniture,ErgoChair,IKEA,3,8000,20%,19200,2304,UPI
+1209,1/20/2024,Asia,India,Gujarat,Vadodara,C209,Customer_209,Electronics,Inspiron 15,Dell,4,8000,20%,25600,3072,UPI
+1210,1/29/2024,Asia,India,Gujarat,Vadodara,C210,Customer_210,Electronics,iPhone 15,Apple,4,55000,20%,176000,21120,Net Banking
+1211,1/31/2024,Asia,India,Madhya Pradesh,Indore,C211,Customer_211,Furniture,OfficeDesk,Featherlite,4,12000,10%,43200,5184,Credit Card
+1212,1/19/2024,Asia,India,Maharashtra,Nagpur,C212,Customer_212,Electronics,iPhone 15,Apple,2,45000,10%,81000,9720,Net Banking
+1213,1/1/2024,Asia,India,Gujarat,Ahmedabad,C213,Customer_213,Furniture,OfficeDesk,Featherlite,3,55000,20%,132000,15840,Credit Card
+1214,1/8/2024,Asia,India,Delhi,Ghaziabad,C214,Customer_214,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,Cash
+1215,1/22/2024,Asia,India,Delhi,New Delhi,C215,Customer_215,Furniture,OfficeDesk,Featherlite,3,45000,5%,128250,15390,Net Banking
+1216,1/30/2024,Asia,India,Gujarat,Vadodara,C216,Customer_216,Electronics,Inspiron 15,Dell,4,45000,5%,171000,20520,UPI
+1217,1/26/2024,Asia,India,Maharashtra,Mumbai,C217,Customer_217,Electronics,iPhone 15,Apple,4,55000,20%,176000,21120,UPI
+1218,1/25/2024,Asia,India,Madhya Pradesh,Indore,C218,Customer_218,Electronics,Inspiron 15,Dell,5,55000,10%,247500,29700,Cash
+1219,1/7/2024,Asia,India,Gujarat,Surat,C219,Customer_219,Electronics,iPhone 15,Apple,5,8000,10%,36000,4320,UPI
+1220,1/22/2024,Asia,India,Maharashtra,Nagpur,C220,Customer_220,Furniture,ErgoChair,IKEA,4,8000,20%,25600,3072,Credit Card
+1221,1/1/2024,Asia,India,Gujarat,Ahmedabad,C221,Customer_221,Electronics,iPhone 15,Apple,3,45000,20%,108000,12960,Net Banking
+1222,1/17/2024,Asia,India,Delhi,New Delhi,C222,Customer_222,Furniture,OfficeDesk,Featherlite,2,8000,10%,14400,1728,Net Banking
+1223,1/21/2024,Asia,India,Delhi,New Delhi,C223,Customer_223,Electronics,iPhone 15,Apple,3,45000,10%,121500,14580,Cash
+1224,1/14/2024,Asia,India,Delhi,Noida,C224,Customer_224,Electronics,iPhone 15,Apple,5,8000,20%,32000,3840,Net Banking
+1225,1/19/2024,Asia,India,Maharashtra,Nagpur,C225,Customer_225,Electronics,Inspiron 15,Dell,1,8000,10%,7200,864,Cash
+1226,1/11/2024,Asia,India,Maharashtra,Pune,C226,Customer_226,Furniture,ErgoChair,IKEA,3,8000,5%,22800,2736,Cash
+1227,1/21/2024,Asia,India,Delhi,Ghaziabad,C227,Customer_227,Furniture,OfficeDesk,Featherlite,2,55000,20%,88000,10560,UPI
+1228,1/30/2024,Asia,India,Gujarat,Vadodara,C228,Customer_228,Furniture,OfficeDesk,Featherlite,2,55000,10%,99000,11880,Credit Card
+1229,1/8/2024,Asia,India,Gujarat,Ahmedabad,C229,Customer_229,Electronics,iPhone 15,Apple,5,8000,20%,32000,3840,Credit Card
+1230,1/22/2024,Asia,India,Maharashtra,Mumbai,C230,Customer_230,Furniture,OfficeDesk,Featherlite,3,45000,20%,108000,12960,Net Banking
+1231,1/14/2024,Asia,India,Maharashtra,Pune,C231,Customer_231,Furniture,OfficeDesk,Featherlite,3,12000,5%,34200,4104,UPI
+1232,1/2/2024,Asia,India,Gujarat,Surat,C232,Customer_232,Furniture,ErgoChair,IKEA,1,55000,10%,49500,5940,Cash
+1233,1/25/2024,Asia,India,Madhya Pradesh,Bhopal,C233,Customer_233,Furniture,OfficeDesk,Featherlite,3,12000,20%,28800,3456,Cash
+1234,1/4/2024,Asia,India,Madhya Pradesh,Bhopal,C234,Customer_234,Electronics,iPhone 15,Apple,2,12000,20%,19200,2304,UPI
+1235,1/15/2024,Asia,India,Gujarat,Vadodara,C235,Customer_235,Furniture,ErgoChair,IKEA,2,12000,5%,22800,2736,Credit Card
+1236,1/25/2024,Asia,India,Delhi,Ghaziabad,C236,Customer_236,Electronics,iPhone 15,Apple,4,55000,20%,176000,21120,Net Banking
+1237,1/8/2024,Asia,India,Maharashtra,Pune,C237,Customer_237,Furniture,OfficeDesk,Featherlite,3,8000,10%,21600,2592,Credit Card
+1238,1/21/2024,Asia,India,Delhi,New Delhi,C238,Customer_238,Furniture,ErgoChair,IKEA,2,45000,5%,85500,10260,Credit Card
+1239,1/27/2024,Asia,India,Madhya Pradesh,Jabalpur,C239,Customer_239,Electronics,Inspiron 15,Dell,4,45000,20%,144000,17280,Credit Card
+1240,1/18/2024,Asia,India,Delhi,New Delhi,C240,Customer_240,Furniture,OfficeDesk,Featherlite,2,12000,10%,21600,2592,Cash
+1241,1/6/2024,Asia,India,Maharashtra,Nagpur,C241,Customer_241,Furniture,OfficeDesk,Featherlite,5,8000,5%,38000,4560,Cash
+1242,1/11/2024,Asia,India,Gujarat,Surat,C242,Customer_242,Furniture,OfficeDesk,Featherlite,2,8000,20%,12800,1536,Net Banking
+1243,1/19/2024,Asia,India,Delhi,Ghaziabad,C243,Customer_243,Furniture,OfficeDesk,Featherlite,1,12000,20%,9600,1152,UPI
+1244,1/5/2024,Asia,India,Madhya Pradesh,Gwalior,C244,Customer_244,Electronics,iPhone 15,Apple,2,45000,5%,85500,10260,Cash
+1245,1/12/2024,Asia,India,Delhi,Ghaziabad,C245,Customer_245,Electronics,Inspiron 15,Dell,1,8000,20%,6400,768,Net Banking
+1246,1/10/2024,Asia,India,Gujarat,Vadodara,C246,Customer_246,Electronics,iPhone 15,Apple,5,8000,5%,38000,4560,Cash
+1247,1/14/2024,Asia,India,Maharashtra,Pune,C247,Customer_247,Furniture,ErgoChair,IKEA,5,8000,20%,32000,3840,UPI
+1248,1/7/2024,Asia,India,Maharashtra,Nagpur,C248,Customer_248,Furniture,OfficeDesk,Featherlite,3,8000,5%,22800,2736,Credit Card
+1249,1/21/2024,Asia,India,Delhi,Noida,C249,Customer_249,Electronics,Inspiron 15,Dell,5,45000,10%,202500,24300,Cash
+1250,1/1/2024,Asia,India,Madhya Pradesh,Gwalior,C250,Customer_250,Electronics,Inspiron 15,Dell,3,8000,20%,19200,2304,Cash
+1251,1/4/2024,Asia,India,Gujarat,Vadodara,C251,Customer_251,Electronics,Inspiron 15,Dell,3,8000,5%,22800,2736,UPI
+1252,1/10/2024,Asia,India,Maharashtra,Pune,C252,Customer_252,Furniture,OfficeDesk,Featherlite,1,45000,20%,36000,4320,Cash
+1253,1/20/2024,Asia,India,Delhi,Ghaziabad,C253,Customer_253,Electronics,Inspiron 15,Dell,4,45000,20%,144000,17280,Cash
+1254,1/20/2024,Asia,India,Delhi,Ghaziabad,C254,Customer_254,Electronics,Inspiron 15,Dell,3,45000,10%,121500,14580,Credit Card
+1255,1/12/2024,Asia,India,Madhya Pradesh,Indore,C255,Customer_255,Electronics,Inspiron 15,Dell,4,45000,20%,144000,17280,Cash
+1256,1/7/2024,Asia,India,Maharashtra,Mumbai,C256,Customer_256,Electronics,iPhone 15,Apple,5,55000,10%,247500,29700,Credit Card
+1257,1/18/2024,Asia,India,Gujarat,Surat,C257,Customer_257,Electronics,Inspiron 15,Dell,5,55000,5%,261250,31350,Credit Card
+1258,1/22/2024,Asia,India,Madhya Pradesh,Indore,C258,Customer_258,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,UPI
+1259,1/30/2024,Asia,India,Gujarat,Ahmedabad,C259,Customer_259,Furniture,ErgoChair,IKEA,5,55000,20%,220000,26400,Cash
+1260,1/13/2024,Asia,India,Delhi,Noida,C260,Customer_260,Furniture,OfficeDesk,Featherlite,1,12000,20%,9600,1152,UPI
+1261,1/6/2024,Asia,India,Delhi,Ghaziabad,C261,Customer_261,Furniture,ErgoChair,IKEA,5,8000,5%,38000,4560,Credit Card
+1262,1/30/2024,Asia,India,Gujarat,Vadodara,C262,Customer_262,Furniture,ErgoChair,IKEA,5,8000,5%,38000,4560,UPI
+1263,1/3/2024,Asia,India,Delhi,Noida,C263,Customer_263,Furniture,ErgoChair,IKEA,1,12000,20%,9600,1152,Credit Card
+1264,1/23/2024,Asia,India,Gujarat,Ahmedabad,C264,Customer_264,Furniture,ErgoChair,IKEA,3,12000,20%,28800,3456,Net Banking
+1265,1/29/2024,Asia,India,Maharashtra,Pune,C265,Customer_265,Electronics,Inspiron 15,Dell,3,45000,20%,108000,12960,Cash
+1266,1/3/2024,Asia,India,Delhi,New Delhi,C266,Customer_266,Electronics,Inspiron 15,Dell,3,55000,20%,132000,15840,Credit Card
+1267,1/29/2024,Asia,India,Gujarat,Ahmedabad,C267,Customer_267,Electronics,Inspiron 15,Dell,2,45000,5%,85500,10260,UPI
+1268,1/10/2024,Asia,India,Gujarat,Ahmedabad,C268,Customer_268,Electronics,Inspiron 15,Dell,4,55000,10%,198000,23760,Cash
+1269,1/31/2024,Asia,India,Gujarat,Vadodara,C269,Customer_269,Furniture,OfficeDesk,Featherlite,1,45000,10%,40500,4860,UPI
+1270,1/9/2024,Asia,India,Delhi,Ghaziabad,C270,Customer_270,Electronics,iPhone 15,Apple,1,8000,20%,6400,768,UPI
+1271,1/31/2024,Asia,India,Gujarat,Vadodara,C271,Customer_271,Electronics,iPhone 15,Apple,3,55000,5%,156750,18810,UPI
+1272,1/21/2024,Asia,India,Maharashtra,Mumbai,C272,Customer_272,Electronics,Inspiron 15,Dell,1,8000,20%,6400,768,Net Banking
+1273,1/10/2024,Asia,India,Delhi,Noida,C273,Customer_273,Electronics,iPhone 15,Apple,3,12000,10%,32400,3888,Credit Card
+1274,1/8/2024,Asia,India,Delhi,Ghaziabad,C274,Customer_274,Furniture,OfficeDesk,Featherlite,2,8000,10%,14400,1728,Cash
+1275,1/27/2024,Asia,India,Maharashtra,Pune,C275,Customer_275,Furniture,OfficeDesk,Featherlite,2,55000,20%,88000,10560,Credit Card
+1276,1/18/2024,Asia,India,Madhya Pradesh,Indore,C276,Customer_276,Electronics,Inspiron 15,Dell,4,55000,5%,209000,25080,Cash
+1277,1/9/2024,Asia,India,Gujarat,Ahmedabad,C277,Customer_277,Furniture,OfficeDesk,Featherlite,4,55000,20%,176000,21120,Credit Card
+1278,1/21/2024,Asia,India,Madhya Pradesh,Gwalior,C278,Customer_278,Furniture,ErgoChair,IKEA,5,12000,20%,48000,5760,Credit Card
+1279,1/6/2024,Asia,India,Gujarat,Surat,C279,Customer_279,Electronics,iPhone 15,Apple,1,8000,20%,6400,768,Cash
+1280,1/10/2024,Asia,India,Delhi,New Delhi,C280,Customer_280,Electronics,iPhone 15,Apple,5,8000,10%,36000,4320,Net Banking
+1281,1/20/2024,Asia,India,Delhi,Ghaziabad,C281,Customer_281,Electronics,iPhone 15,Apple,5,12000,20%,48000,5760,Net Banking
+1282,1/14/2024,Asia,India,Delhi,Noida,C282,Customer_282,Furniture,OfficeDesk,Featherlite,3,12000,10%,32400,3888,UPI
+1283,1/3/2024,Asia,India,Madhya Pradesh,Gwalior,C283,Customer_283,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,UPI
+1284,1/20/2024,Asia,India,Gujarat,Surat,C284,Customer_284,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,UPI
+1285,1/5/2024,Asia,India,Gujarat,Vadodara,C285,Customer_285,Electronics,Inspiron 15,Dell,2,55000,20%,88000,10560,Credit Card
+1286,1/8/2024,Asia,India,Maharashtra,Pune,C286,Customer_286,Electronics,Inspiron 15,Dell,4,12000,5%,45600,5472,Net Banking
+1287,1/8/2024,Asia,India,Maharashtra,Mumbai,C287,Customer_287,Electronics,Inspiron 15,Dell,1,45000,5%,42750,5130,Credit Card
+1288,1/14/2024,Asia,India,Maharashtra,Mumbai,C288,Customer_288,Electronics,Inspiron 15,Dell,5,45000,5%,213750,25650,Credit Card
+1289,1/7/2024,Asia,India,Maharashtra,Nagpur,C289,Customer_289,Electronics,iPhone 15,Apple,1,55000,10%,49500,5940,Cash
+1290,1/23/2024,Asia,India,Delhi,Ghaziabad,C290,Customer_290,Electronics,iPhone 15,Apple,3,8000,10%,21600,2592,Credit Card
+1291,1/1/2024,Asia,India,Delhi,Noida,C291,Customer_291,Furniture,OfficeDesk,Featherlite,5,12000,20%,48000,5760,UPI
+1292,1/29/2024,Asia,India,Madhya Pradesh,Bhopal,C292,Customer_292,Electronics,Inspiron 15,Dell,2,8000,10%,14400,1728,Cash
+1293,1/17/2024,Asia,India,Madhya Pradesh,Indore,C293,Customer_293,Furniture,ErgoChair,IKEA,2,45000,20%,72000,8640,Net Banking
+1294,1/11/2024,Asia,India,Maharashtra,Nagpur,C294,Customer_294,Electronics,Inspiron 15,Dell,2,45000,20%,72000,8640,Net Banking
+1295,1/27/2024,Asia,India,Madhya Pradesh,Jabalpur,C295,Customer_295,Electronics,Inspiron 15,Dell,1,45000,10%,40500,4860,Net Banking
+1296,1/6/2024,Asia,India,Delhi,New Delhi,C296,Customer_296,Electronics,Inspiron 15,Dell,2,12000,10%,21600,2592,UPI
+1297,1/24/2024,Asia,India,Gujarat,Surat,C297,Customer_297,Electronics,Inspiron 15,Dell,5,55000,10%,247500,29700,Cash
+1298,1/16/2024,Asia,India,Maharashtra,Nagpur,C298,Customer_298,Electronics,iPhone 15,Apple,4,12000,20%,38400,4608,Cash
+1299,1/11/2024,Asia,India,Gujarat,Vadodara,C299,Customer_299,Electronics,Inspiron 15,Dell,3,45000,20%,108000,12960,Net Banking
+1300,1/18/2024,Asia,India,Delhi,New Delhi,C300,Customer_300,Electronics,Inspiron 15,Dell,5,8000,20%,32000,3840,Net Banking
+1301,1/17/2024,Asia,India,Madhya Pradesh,Gwalior,C301,Customer_301,Electronics,Inspiron 15,Dell,1,55000,20%,44000,5280,UPI
+1302,1/28/2024,Asia,India,Gujarat,Surat,C302,Customer_302,Furniture,ErgoChair,IKEA,2,8000,10%,14400,1728,UPI
+1303,1/12/2024,Asia,India,Maharashtra,Pune,C303,Customer_303,Electronics,Inspiron 15,Dell,1,45000,10%,40500,4860,Net Banking
+1304,1/27/2024,Asia,India,Maharashtra,Mumbai,C304,Customer_304,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,Credit Card
+1305,1/4/2024,Asia,India,Madhya Pradesh,Bhopal,C305,Customer_305,Electronics,Inspiron 15,Dell,5,45000,20%,180000,21600,Cash
+1306,1/16/2024,Asia,India,Madhya Pradesh,Gwalior,C306,Customer_306,Furniture,OfficeDesk,Featherlite,5,8000,5%,38000,4560,Credit Card
+1307,1/6/2024,Asia,India,Maharashtra,Mumbai,C307,Customer_307,Furniture,OfficeDesk,Featherlite,2,12000,5%,22800,2736,Credit Card
+1308,1/8/2024,Asia,India,Delhi,Ghaziabad,C308,Customer_308,Electronics,Inspiron 15,Dell,4,55000,20%,176000,21120,UPI
+1309,1/6/2024,Asia,India,Maharashtra,Nagpur,C309,Customer_309,Furniture,OfficeDesk,Featherlite,2,12000,5%,22800,2736,UPI
+1310,1/2/2024,Asia,India,Delhi,New Delhi,C310,Customer_310,Electronics,Inspiron 15,Dell,5,55000,10%,247500,29700,Net Banking
+1311,1/30/2024,Asia,India,Maharashtra,Mumbai,C311,Customer_311,Electronics,Inspiron 15,Dell,5,12000,20%,48000,5760,Net Banking
+1312,1/29/2024,Asia,India,Maharashtra,Mumbai,C312,Customer_312,Furniture,ErgoChair,IKEA,2,8000,5%,15200,1824,Cash
+1313,1/20/2024,Asia,India,Madhya Pradesh,Jabalpur,C313,Customer_313,Furniture,ErgoChair,IKEA,4,12000,20%,38400,4608,Net Banking
+1314,1/9/2024,Asia,India,Gujarat,Surat,C314,Customer_314,Electronics,Inspiron 15,Dell,4,8000,20%,25600,3072,Net Banking
+1315,1/31/2024,Asia,India,Gujarat,Ahmedabad,C315,Customer_315,Electronics,Inspiron 15,Dell,4,8000,5%,30400,3648,Net Banking
+1316,1/29/2024,Asia,India,Maharashtra,Pune,C316,Customer_316,Furniture,ErgoChair,IKEA,1,12000,5%,11400,1368,Credit Card
+1317,1/15/2024,Asia,India,Gujarat,Surat,C317,Customer_317,Furniture,OfficeDesk,Featherlite,2,12000,10%,21600,2592,UPI
+1318,1/14/2024,Asia,India,Madhya Pradesh,Indore,C318,Customer_318,Furniture,OfficeDesk,Featherlite,4,55000,5%,209000,25080,UPI
+1319,1/17/2024,Asia,India,Madhya Pradesh,Jabalpur,C319,Customer_319,Electronics,iPhone 15,Apple,1,45000,5%,42750,5130,Net Banking
+1320,1/24/2024,Asia,India,Maharashtra,Pune,C320,Customer_320,Furniture,ErgoChair,IKEA,4,55000,5%,209000,25080,Net Banking
+1321,1/18/2024,Asia,India,Maharashtra,Nagpur,C321,Customer_321,Electronics,Inspiron 15,Dell,5,55000,20%,220000,26400,UPI
+1322,1/15/2024,Asia,India,Delhi,Ghaziabad,C322,Customer_322,Electronics,Inspiron 15,Dell,1,12000,5%,11400,1368,Credit Card
+1323,1/15/2024,Asia,India,Maharashtra,Pune,C323,Customer_323,Furniture,ErgoChair,IKEA,4,45000,10%,162000,19440,Cash
+1324,1/20/2024,Asia,India,Gujarat,Surat,C324,Customer_324,Electronics,Inspiron 15,Dell,3,55000,20%,132000,15840,Cash
+1325,1/19/2024,Asia,India,Gujarat,Ahmedabad,C325,Customer_325,Furniture,OfficeDesk,Featherlite,1,8000,5%,7600,912,Cash
+1326,1/16/2024,Asia,India,Maharashtra,Nagpur,C326,Customer_326,Furniture,ErgoChair,IKEA,4,12000,10%,43200,5184,Cash
+1327,1/26/2024,Asia,India,Gujarat,Surat,C327,Customer_327,Furniture,OfficeDesk,Featherlite,3,55000,5%,156750,18810,Credit Card
+1328,1/15/2024,Asia,India,Maharashtra,Nagpur,C328,Customer_328,Electronics,iPhone 15,Apple,3,8000,20%,19200,2304,Net Banking
+1329,1/19/2024,Asia,India,Gujarat,Vadodara,C329,Customer_329,Electronics,Inspiron 15,Dell,2,55000,20%,88000,10560,Cash
+1330,1/27/2024,Asia,India,Madhya Pradesh,Indore,C330,Customer_330,Furniture,ErgoChair,IKEA,4,12000,20%,38400,4608,Credit Card
+1331,1/17/2024,Asia,India,Madhya Pradesh,Bhopal,C331,Customer_331,Electronics,Inspiron 15,Dell,4,55000,20%,176000,21120,Cash
+1332,1/15/2024,Asia,India,Delhi,Ghaziabad,C332,Customer_332,Furniture,OfficeDesk,Featherlite,2,12000,10%,21600,2592,UPI
+1333,1/25/2024,Asia,India,Gujarat,Ahmedabad,C333,Customer_333,Electronics,Inspiron 15,Dell,1,45000,10%,40500,4860,Credit Card
+1334,1/8/2024,Asia,India,Delhi,New Delhi,C334,Customer_334,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,Net Banking
+1335,1/25/2024,Asia,India,Maharashtra,Mumbai,C335,Customer_335,Electronics,Inspiron 15,Dell,3,45000,5%,128250,15390,Net Banking
+1336,1/9/2024,Asia,India,Delhi,New Delhi,C336,Customer_336,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Credit Card
+1337,1/16/2024,Asia,India,Gujarat,Vadodara,C337,Customer_337,Furniture,ErgoChair,IKEA,1,45000,5%,42750,5130,Credit Card
+1338,1/15/2024,Asia,India,Maharashtra,Mumbai,C338,Customer_338,Electronics,iPhone 15,Apple,3,55000,20%,132000,15840,UPI
+1339,1/23/2024,Asia,India,Gujarat,Surat,C339,Customer_339,Electronics,Inspiron 15,Dell,1,55000,10%,49500,5940,Credit Card
+1340,1/22/2024,Asia,India,Maharashtra,Mumbai,C340,Customer_340,Electronics,iPhone 15,Apple,4,8000,5%,30400,3648,UPI
+1341,1/1/2024,Asia,India,Maharashtra,Mumbai,C341,Customer_341,Electronics,Inspiron 15,Dell,2,12000,5%,22800,2736,Cash
+1342,1/12/2024,Asia,India,Gujarat,Surat,C342,Customer_342,Furniture,OfficeDesk,Featherlite,3,8000,20%,19200,2304,Credit Card
+1343,1/24/2024,Asia,India,Maharashtra,Nagpur,C343,Customer_343,Furniture,ErgoChair,IKEA,5,55000,20%,220000,26400,Cash
+1344,1/26/2024,Asia,India,Delhi,New Delhi,C344,Customer_344,Electronics,iPhone 15,Apple,1,45000,10%,40500,4860,UPI
+1345,1/17/2024,Asia,India,Madhya Pradesh,Bhopal,C345,Customer_345,Furniture,OfficeDesk,Featherlite,2,8000,10%,14400,1728,Cash
+1346,1/8/2024,Asia,India,Madhya Pradesh,Bhopal,C346,Customer_346,Electronics,Inspiron 15,Dell,1,45000,10%,40500,4860,UPI
+1347,1/16/2024,Asia,India,Gujarat,Vadodara,C347,Customer_347,Furniture,OfficeDesk,Featherlite,5,12000,10%,54000,6480,Credit Card
+1348,1/18/2024,Asia,India,Delhi,New Delhi,C348,Customer_348,Furniture,OfficeDesk,Featherlite,2,8000,5%,15200,1824,Net Banking
+1349,1/30/2024,Asia,India,Delhi,Noida,C349,Customer_349,Electronics,Inspiron 15,Dell,2,8000,10%,14400,1728,Credit Card
+1350,1/30/2024,Asia,India,Delhi,Noida,C350,Customer_350,Electronics,Inspiron 15,Dell,3,8000,20%,19200,2304,Cash
+1351,1/25/2024,Asia,India,Gujarat,Surat,C351,Customer_351,Furniture,OfficeDesk,Featherlite,3,8000,5%,22800,2736,UPI
+1352,1/24/2024,Asia,India,Madhya Pradesh,Bhopal,C352,Customer_352,Electronics,Inspiron 15,Dell,3,8000,20%,19200,2304,UPI
+1353,1/27/2024,Asia,India,Madhya Pradesh,Bhopal,C353,Customer_353,Electronics,Inspiron 15,Dell,5,45000,10%,202500,24300,Cash
+1354,1/6/2024,Asia,India,Gujarat,Vadodara,C354,Customer_354,Furniture,OfficeDesk,Featherlite,4,12000,5%,45600,5472,Net Banking
+1355,1/23/2024,Asia,India,Madhya Pradesh,Jabalpur,C355,Customer_355,Electronics,Inspiron 15,Dell,2,12000,20%,19200,2304,UPI
+1356,1/29/2024,Asia,India,Gujarat,Ahmedabad,C356,Customer_356,Furniture,OfficeDesk,Featherlite,5,55000,20%,220000,26400,Cash
+1357,1/26/2024,Asia,India,Madhya Pradesh,Jabalpur,C357,Customer_357,Furniture,ErgoChair,IKEA,3,45000,20%,108000,12960,Net Banking
+1358,1/17/2024,Asia,India,Madhya Pradesh,Gwalior,C358,Customer_358,Electronics,iPhone 15,Apple,4,12000,5%,45600,5472,UPI
+1359,1/28/2024,Asia,India,Delhi,Noida,C359,Customer_359,Electronics,Inspiron 15,Dell,2,8000,20%,12800,1536,Cash
+1360,1/18/2024,Asia,India,Maharashtra,Pune,C360,Customer_360,Furniture,ErgoChair,IKEA,2,8000,20%,12800,1536,Credit Card
+1361,1/10/2024,Asia,India,Madhya Pradesh,Bhopal,C361,Customer_361,Electronics,Inspiron 15,Dell,2,12000,5%,22800,2736,Cash
+1362,1/5/2024,Asia,India,Madhya Pradesh,Bhopal,C362,Customer_362,Furniture,ErgoChair,IKEA,1,45000,10%,40500,4860,UPI
+1363,1/26/2024,Asia,India,Maharashtra,Nagpur,C363,Customer_363,Electronics,Inspiron 15,Dell,5,8000,10%,36000,4320,UPI
+1364,1/18/2024,Asia,India,Maharashtra,Nagpur,C364,Customer_364,Electronics,iPhone 15,Apple,4,8000,5%,30400,3648,UPI
+1365,1/6/2024,Asia,India,Madhya Pradesh,Bhopal,C365,Customer_365,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,Cash
+1366,1/24/2024,Asia,India,Delhi,Noida,C366,Customer_366,Electronics,iPhone 15,Apple,3,55000,20%,132000,15840,Net Banking
+1367,1/5/2024,Asia,India,Gujarat,Vadodara,C367,Customer_367,Furniture,ErgoChair,IKEA,5,55000,20%,220000,26400,Cash
+1368,1/9/2024,Asia,India,Madhya Pradesh,Bhopal,C368,Customer_368,Electronics,iPhone 15,Apple,3,12000,20%,28800,3456,Credit Card
+1369,1/22/2024,Asia,India,Maharashtra,Nagpur,C369,Customer_369,Furniture,OfficeDesk,Featherlite,2,12000,5%,22800,2736,Cash
+1370,1/14/2024,Asia,India,Gujarat,Ahmedabad,C370,Customer_370,Furniture,OfficeDesk,Featherlite,1,55000,5%,52250,6270,Net Banking
+1371,1/5/2024,Asia,India,Maharashtra,Pune,C371,Customer_371,Electronics,Inspiron 15,Dell,2,12000,10%,21600,2592,Net Banking
+1372,1/31/2024,Asia,India,Maharashtra,Pune,C372,Customer_372,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,UPI
+1373,1/3/2024,Asia,India,Madhya Pradesh,Bhopal,C373,Customer_373,Electronics,iPhone 15,Apple,3,8000,20%,19200,2304,Net Banking
+1374,1/29/2024,Asia,India,Maharashtra,Pune,C374,Customer_374,Electronics,Inspiron 15,Dell,1,8000,5%,7600,912,Net Banking
+1375,1/16/2024,Asia,India,Madhya Pradesh,Indore,C375,Customer_375,Furniture,OfficeDesk,Featherlite,2,12000,5%,22800,2736,UPI
+1376,1/11/2024,Asia,India,Delhi,Ghaziabad,C376,Customer_376,Furniture,OfficeDesk,Featherlite,3,12000,20%,28800,3456,Cash
+1377,1/21/2024,Asia,India,Maharashtra,Mumbai,C377,Customer_377,Electronics,iPhone 15,Apple,5,55000,5%,261250,31350,UPI
+1378,1/19/2024,Asia,India,Gujarat,Surat,C378,Customer_378,Furniture,ErgoChair,IKEA,4,8000,5%,30400,3648,UPI
+1379,1/21/2024,Asia,India,Maharashtra,Nagpur,C379,Customer_379,Electronics,iPhone 15,Apple,3,8000,20%,19200,2304,Cash
+1380,1/5/2024,Asia,India,Delhi,Ghaziabad,C380,Customer_380,Electronics,iPhone 15,Apple,1,55000,10%,49500,5940,Cash
+1381,1/4/2024,Asia,India,Gujarat,Vadodara,C381,Customer_381,Electronics,Inspiron 15,Dell,4,55000,5%,209000,25080,UPI
+1382,1/25/2024,Asia,India,Gujarat,Vadodara,C382,Customer_382,Electronics,Inspiron 15,Dell,3,55000,20%,132000,15840,Net Banking
+1383,1/14/2024,Asia,India,Gujarat,Surat,C383,Customer_383,Furniture,ErgoChair,IKEA,5,45000,10%,202500,24300,Cash
+1384,1/7/2024,Asia,India,Maharashtra,Mumbai,C384,Customer_384,Furniture,OfficeDesk,Featherlite,3,8000,10%,21600,2592,Net Banking
+1385,1/28/2024,Asia,India,Maharashtra,Mumbai,C385,Customer_385,Electronics,iPhone 15,Apple,4,12000,10%,43200,5184,UPI
+1386,1/15/2024,Asia,India,Madhya Pradesh,Bhopal,C386,Customer_386,Electronics,Inspiron 15,Dell,1,8000,5%,7600,912,Net Banking
+1387,1/24/2024,Asia,India,Gujarat,Vadodara,C387,Customer_387,Electronics,Inspiron 15,Dell,2,55000,5%,104500,12540,UPI
+1388,1/27/2024,Asia,India,Gujarat,Vadodara,C388,Customer_388,Furniture,ErgoChair,IKEA,2,45000,20%,72000,8640,Credit Card
+1389,1/26/2024,Asia,India,Delhi,New Delhi,C389,Customer_389,Furniture,ErgoChair,IKEA,2,8000,5%,15200,1824,UPI
+1390,1/18/2024,Asia,India,Gujarat,Surat,C390,Customer_390,Electronics,iPhone 15,Apple,5,45000,5%,213750,25650,Credit Card
+1391,1/20/2024,Asia,India,Maharashtra,Mumbai,C391,Customer_391,Electronics,Inspiron 15,Dell,4,12000,10%,43200,5184,Credit Card
+1392,1/30/2024,Asia,India,Delhi,Noida,C392,Customer_392,Furniture,OfficeDesk,Featherlite,5,8000,5%,38000,4560,Net Banking
+1393,1/21/2024,Asia,India,Gujarat,Ahmedabad,C393,Customer_393,Furniture,ErgoChair,IKEA,5,55000,10%,247500,29700,UPI
+1394,1/24/2024,Asia,India,Gujarat,Surat,C394,Customer_394,Furniture,OfficeDesk,Featherlite,4,55000,20%,176000,21120,Cash
+1395,1/14/2024,Asia,India,Gujarat,Surat,C395,Customer_395,Electronics,iPhone 15,Apple,4,55000,20%,176000,21120,Net Banking
+1396,1/17/2024,Asia,India,Delhi,Noida,C396,Customer_396,Electronics,Inspiron 15,Dell,3,55000,10%,148500,17820,UPI
+1397,1/9/2024,Asia,India,Madhya Pradesh,Gwalior,C397,Customer_397,Electronics,iPhone 15,Apple,5,55000,10%,247500,29700,Cash
+1398,1/30/2024,Asia,India,Delhi,Noida,C398,Customer_398,Electronics,Inspiron 15,Dell,4,55000,10%,198000,23760,Net Banking
+1399,1/19/2024,Asia,India,Maharashtra,Nagpur,C399,Customer_399,Furniture,OfficeDesk,Featherlite,1,12000,5%,11400,1368,UPI
+1400,1/13/2024,Asia,India,Gujarat,Vadodara,C400,Customer_400,Electronics,Inspiron 15,Dell,3,45000,10%,121500,14580,UPI
+1401,1/5/2024,Asia,India,Gujarat,Surat,C401,Customer_401,Electronics,iPhone 15,Apple,2,12000,5%,22800,2736,Credit Card
+1402,1/22/2024,Asia,India,Gujarat,Ahmedabad,C402,Customer_402,Electronics,Inspiron 15,Dell,3,12000,10%,32400,3888,Credit Card
+1403,1/25/2024,Asia,India,Madhya Pradesh,Jabalpur,C403,Customer_403,Electronics,iPhone 15,Apple,5,8000,10%,36000,4320,Net Banking
+1404,1/28/2024,Asia,India,Maharashtra,Pune,C404,Customer_404,Furniture,OfficeDesk,Featherlite,3,12000,20%,28800,3456,UPI
+1405,1/22/2024,Asia,India,Madhya Pradesh,Jabalpur,C405,Customer_405,Electronics,Inspiron 15,Dell,3,12000,5%,34200,4104,UPI
+1406,1/13/2024,Asia,India,Delhi,Noida,C406,Customer_406,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,Net Banking
+1407,1/31/2024,Asia,India,Delhi,Ghaziabad,C407,Customer_407,Electronics,Inspiron 15,Dell,2,55000,5%,104500,12540,Cash
+1408,1/30/2024,Asia,India,Madhya Pradesh,Jabalpur,C408,Customer_408,Furniture,OfficeDesk,Featherlite,2,8000,20%,12800,1536,Credit Card
+1409,1/11/2024,Asia,India,Madhya Pradesh,Bhopal,C409,Customer_409,Electronics,Inspiron 15,Dell,3,12000,5%,34200,4104,Cash
+1410,1/8/2024,Asia,India,Delhi,Ghaziabad,C410,Customer_410,Furniture,OfficeDesk,Featherlite,5,45000,10%,202500,24300,Credit Card
+1411,1/18/2024,Asia,India,Maharashtra,Mumbai,C411,Customer_411,Furniture,ErgoChair,IKEA,3,12000,20%,28800,3456,Cash
+1412,1/29/2024,Asia,India,Maharashtra,Mumbai,C412,Customer_412,Furniture,ErgoChair,IKEA,5,55000,20%,220000,26400,Credit Card
+1413,1/25/2024,Asia,India,Madhya Pradesh,Bhopal,C413,Customer_413,Furniture,OfficeDesk,Featherlite,1,55000,10%,49500,5940,Cash
+1414,1/9/2024,Asia,India,Maharashtra,Mumbai,C414,Customer_414,Furniture,OfficeDesk,Featherlite,1,8000,10%,7200,864,UPI
+1415,1/7/2024,Asia,India,Gujarat,Vadodara,C415,Customer_415,Electronics,iPhone 15,Apple,2,45000,5%,85500,10260,Credit Card
+1416,1/25/2024,Asia,India,Madhya Pradesh,Jabalpur,C416,Customer_416,Furniture,ErgoChair,IKEA,1,12000,5%,11400,1368,Cash
+1417,1/5/2024,Asia,India,Gujarat,Vadodara,C417,Customer_417,Furniture,ErgoChair,IKEA,1,55000,10%,49500,5940,Net Banking
+1418,1/13/2024,Asia,India,Maharashtra,Nagpur,C418,Customer_418,Electronics,Inspiron 15,Dell,2,45000,10%,81000,9720,Cash
+1419,1/12/2024,Asia,India,Delhi,Ghaziabad,C419,Customer_419,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,UPI
+1420,1/7/2024,Asia,India,Madhya Pradesh,Bhopal,C420,Customer_420,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,Credit Card
+1421,1/1/2024,Asia,India,Delhi,New Delhi,C421,Customer_421,Electronics,Inspiron 15,Dell,1,8000,20%,6400,768,Credit Card
+1422,1/30/2024,Asia,India,Delhi,Noida,C422,Customer_422,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,UPI
+1423,1/15/2024,Asia,India,Delhi,Noida,C423,Customer_423,Electronics,Inspiron 15,Dell,2,8000,10%,14400,1728,Credit Card
+1424,1/30/2024,Asia,India,Delhi,New Delhi,C424,Customer_424,Electronics,Inspiron 15,Dell,4,55000,5%,209000,25080,UPI
+1425,1/23/2024,Asia,India,Madhya Pradesh,Bhopal,C425,Customer_425,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,UPI
+1426,1/18/2024,Asia,India,Gujarat,Surat,C426,Customer_426,Furniture,ErgoChair,IKEA,5,12000,5%,57000,6840,Net Banking
+1427,1/12/2024,Asia,India,Madhya Pradesh,Gwalior,C427,Customer_427,Furniture,ErgoChair,IKEA,5,55000,10%,247500,29700,UPI
+1428,1/17/2024,Asia,India,Delhi,New Delhi,C428,Customer_428,Electronics,iPhone 15,Apple,2,8000,20%,12800,1536,Cash
+1429,1/17/2024,Asia,India,Madhya Pradesh,Jabalpur,C429,Customer_429,Furniture,ErgoChair,IKEA,1,45000,10%,40500,4860,Cash
+1430,1/22/2024,Asia,India,Madhya Pradesh,Bhopal,C430,Customer_430,Electronics,iPhone 15,Apple,2,45000,20%,72000,8640,Net Banking
+1431,1/11/2024,Asia,India,Madhya Pradesh,Indore,C431,Customer_431,Electronics,iPhone 15,Apple,2,8000,20%,12800,1536,Cash
+1432,1/29/2024,Asia,India,Gujarat,Vadodara,C432,Customer_432,Furniture,OfficeDesk,Featherlite,5,12000,20%,48000,5760,Cash
+1433,1/29/2024,Asia,India,Gujarat,Surat,C433,Customer_433,Electronics,iPhone 15,Apple,4,8000,10%,28800,3456,UPI
+1434,1/8/2024,Asia,India,Madhya Pradesh,Indore,C434,Customer_434,Electronics,iPhone 15,Apple,2,45000,10%,81000,9720,Net Banking
+1435,1/13/2024,Asia,India,Maharashtra,Mumbai,C435,Customer_435,Electronics,Inspiron 15,Dell,3,8000,10%,21600,2592,UPI
+1436,1/30/2024,Asia,India,Gujarat,Vadodara,C436,Customer_436,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,Cash
+1437,1/12/2024,Asia,India,Gujarat,Ahmedabad,C437,Customer_437,Electronics,Inspiron 15,Dell,3,55000,20%,132000,15840,Net Banking
+1438,1/30/2024,Asia,India,Maharashtra,Mumbai,C438,Customer_438,Furniture,OfficeDesk,Featherlite,1,45000,10%,40500,4860,Credit Card
+1439,1/4/2024,Asia,India,Delhi,New Delhi,C439,Customer_439,Electronics,Inspiron 15,Dell,4,45000,10%,162000,19440,Net Banking
+1440,1/14/2024,Asia,India,Madhya Pradesh,Bhopal,C440,Customer_440,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,Cash
+1441,1/27/2024,Asia,India,Madhya Pradesh,Gwalior,C441,Customer_441,Furniture,OfficeDesk,Featherlite,1,8000,10%,7200,864,Credit Card
+1442,1/23/2024,Asia,India,Maharashtra,Pune,C442,Customer_442,Furniture,ErgoChair,IKEA,4,8000,20%,25600,3072,Credit Card
+1443,1/24/2024,Asia,India,Madhya Pradesh,Gwalior,C443,Customer_443,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,Cash
+1444,1/31/2024,Asia,India,Gujarat,Ahmedabad,C444,Customer_444,Furniture,OfficeDesk,Featherlite,5,12000,20%,48000,5760,UPI
+1445,1/1/2024,Asia,India,Gujarat,Surat,C445,Customer_445,Electronics,Inspiron 15,Dell,1,12000,10%,10800,1296,Cash
+1446,1/1/2024,Asia,India,Maharashtra,Pune,C446,Customer_446,Electronics,Inspiron 15,Dell,2,45000,10%,81000,9720,UPI
+1447,1/15/2024,Asia,India,Delhi,New Delhi,C447,Customer_447,Electronics,iPhone 15,Apple,5,12000,10%,54000,6480,UPI
+1448,1/30/2024,Asia,India,Gujarat,Surat,C448,Customer_448,Furniture,OfficeDesk,Featherlite,1,12000,10%,10800,1296,Credit Card
+1449,1/16/2024,Asia,India,Delhi,Noida,C449,Customer_449,Electronics,Inspiron 15,Dell,1,55000,20%,44000,5280,Cash
+1450,1/18/2024,Asia,India,Gujarat,Ahmedabad,C450,Customer_450,Electronics,Inspiron 15,Dell,3,8000,5%,22800,2736,UPI
+1451,1/1/2024,Asia,India,Madhya Pradesh,Bhopal,C451,Customer_451,Electronics,Inspiron 15,Dell,5,8000,20%,32000,3840,Credit Card
+1452,1/8/2024,Asia,India,Maharashtra,Mumbai,C452,Customer_452,Furniture,OfficeDesk,Featherlite,5,55000,5%,261250,31350,Cash
+1453,1/19/2024,Asia,India,Madhya Pradesh,Bhopal,C453,Customer_453,Furniture,OfficeDesk,Featherlite,1,8000,10%,7200,864,Cash
+1454,1/22/2024,Asia,India,Delhi,New Delhi,C454,Customer_454,Electronics,iPhone 15,Apple,3,45000,5%,128250,15390,Cash
+1455,1/7/2024,Asia,India,Delhi,New Delhi,C455,Customer_455,Furniture,ErgoChair,IKEA,3,45000,10%,121500,14580,UPI
+1456,1/11/2024,Asia,India,Madhya Pradesh,Indore,C456,Customer_456,Electronics,iPhone 15,Apple,2,12000,20%,19200,2304,UPI
+1457,1/13/2024,Asia,India,Madhya Pradesh,Indore,C457,Customer_457,Furniture,OfficeDesk,Featherlite,1,12000,10%,10800,1296,Cash
+1458,1/9/2024,Asia,India,Gujarat,Ahmedabad,C458,Customer_458,Furniture,ErgoChair,IKEA,5,55000,5%,261250,31350,Cash
+1459,1/23/2024,Asia,India,Madhya Pradesh,Indore,C459,Customer_459,Electronics,iPhone 15,Apple,5,8000,20%,32000,3840,UPI
+1460,1/31/2024,Asia,India,Maharashtra,Mumbai,C460,Customer_460,Electronics,iPhone 15,Apple,4,8000,20%,25600,3072,UPI
+1461,1/13/2024,Asia,India,Maharashtra,Pune,C461,Customer_461,Electronics,iPhone 15,Apple,2,45000,20%,72000,8640,UPI
+1462,1/13/2024,Asia,India,Delhi,New Delhi,C462,Customer_462,Electronics,Inspiron 15,Dell,4,55000,5%,209000,25080,Cash
+1463,1/15/2024,Asia,India,Delhi,Ghaziabad,C463,Customer_463,Furniture,OfficeDesk,Featherlite,1,55000,5%,52250,6270,UPI
+1464,1/27/2024,Asia,India,Gujarat,Vadodara,C464,Customer_464,Furniture,ErgoChair,IKEA,5,45000,5%,213750,25650,Credit Card
+1465,1/28/2024,Asia,India,Gujarat,Surat,C465,Customer_465,Furniture,ErgoChair,IKEA,5,12000,20%,48000,5760,Cash
+1466,1/14/2024,Asia,India,Maharashtra,Pune,C466,Customer_466,Furniture,OfficeDesk,Featherlite,4,45000,20%,144000,17280,Cash
+1467,1/30/2024,Asia,India,Delhi,New Delhi,C467,Customer_467,Furniture,ErgoChair,IKEA,4,8000,10%,28800,3456,Net Banking
+1468,1/7/2024,Asia,India,Delhi,New Delhi,C468,Customer_468,Electronics,iPhone 15,Apple,2,45000,20%,72000,8640,Credit Card
+1469,1/27/2024,Asia,India,Madhya Pradesh,Indore,C469,Customer_469,Furniture,OfficeDesk,Featherlite,2,45000,20%,72000,8640,UPI
+1470,1/5/2024,Asia,India,Madhya Pradesh,Bhopal,C470,Customer_470,Electronics,Inspiron 15,Dell,5,8000,10%,36000,4320,UPI
+1471,1/11/2024,Asia,India,Gujarat,Vadodara,C471,Customer_471,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,UPI
+1472,1/16/2024,Asia,India,Gujarat,Vadodara,C472,Customer_472,Furniture,ErgoChair,IKEA,4,55000,10%,198000,23760,UPI
+1473,1/10/2024,Asia,India,Delhi,Ghaziabad,C473,Customer_473,Electronics,iPhone 15,Apple,1,45000,20%,36000,4320,Credit Card
+1474,1/23/2024,Asia,India,Delhi,Noida,C474,Customer_474,Furniture,ErgoChair,IKEA,4,8000,10%,28800,3456,UPI
+1475,1/8/2024,Asia,India,Delhi,New Delhi,C475,Customer_475,Electronics,Inspiron 15,Dell,4,45000,20%,144000,17280,Net Banking
+1476,1/31/2024,Asia,India,Gujarat,Surat,C476,Customer_476,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Cash
+1477,1/16/2024,Asia,India,Gujarat,Ahmedabad,C477,Customer_477,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,Credit Card
+1478,1/26/2024,Asia,India,Maharashtra,Pune,C478,Customer_478,Furniture,ErgoChair,IKEA,3,8000,20%,19200,2304,UPI
+1479,1/6/2024,Asia,India,Madhya Pradesh,Bhopal,C479,Customer_479,Furniture,OfficeDesk,Featherlite,3,8000,20%,19200,2304,Net Banking
+1480,1/26/2024,Asia,India,Gujarat,Surat,C480,Customer_480,Electronics,Inspiron 15,Dell,1,55000,20%,44000,5280,UPI
+1481,1/20/2024,Asia,India,Madhya Pradesh,Gwalior,C481,Customer_481,Furniture,ErgoChair,IKEA,2,12000,20%,19200,2304,Net Banking
+1482,1/24/2024,Asia,India,Madhya Pradesh,Indore,C482,Customer_482,Electronics,iPhone 15,Apple,2,45000,20%,72000,8640,UPI
+1483,1/15/2024,Asia,India,Gujarat,Surat,C483,Customer_483,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,Cash
+1484,1/31/2024,Asia,India,Delhi,New Delhi,C484,Customer_484,Electronics,iPhone 15,Apple,5,45000,20%,180000,21600,Cash
+1485,1/23/2024,Asia,India,Delhi,New Delhi,C485,Customer_485,Electronics,iPhone 15,Apple,2,45000,10%,81000,9720,Cash
+1486,1/2/2024,Asia,India,Delhi,Ghaziabad,C486,Customer_486,Electronics,iPhone 15,Apple,2,8000,10%,14400,1728,Credit Card
+1487,1/14/2024,Asia,India,Madhya Pradesh,Jabalpur,C487,Customer_487,Electronics,iPhone 15,Apple,1,55000,5%,52250,6270,Net Banking
+1488,1/5/2024,Asia,India,Gujarat,Surat,C488,Customer_488,Electronics,iPhone 15,Apple,3,12000,5%,34200,4104,Credit Card
+1489,1/1/2024,Asia,India,Delhi,New Delhi,C489,Customer_489,Furniture,ErgoChair,IKEA,5,55000,10%,247500,29700,Credit Card
+1490,1/24/2024,Asia,India,Delhi,Noida,C490,Customer_490,Furniture,OfficeDesk,Featherlite,4,55000,5%,209000,25080,UPI
+1491,1/4/2024,Asia,India,Madhya Pradesh,Jabalpur,C491,Customer_491,Furniture,ErgoChair,IKEA,5,12000,10%,54000,6480,UPI
+1492,1/25/2024,Asia,India,Madhya Pradesh,Gwalior,C492,Customer_492,Electronics,iPhone 15,Apple,2,8000,10%,14400,1728,Credit Card
+1493,1/10/2024,Asia,India,Delhi,New Delhi,C493,Customer_493,Electronics,iPhone 15,Apple,2,8000,10%,14400,1728,UPI
+1494,1/12/2024,Asia,India,Madhya Pradesh,Bhopal,C494,Customer_494,Electronics,iPhone 15,Apple,4,8000,20%,25600,3072,UPI
+1495,1/5/2024,Asia,India,Gujarat,Vadodara,C495,Customer_495,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,UPI
+1496,1/2/2024,Asia,India,Maharashtra,Mumbai,C496,Customer_496,Electronics,iPhone 15,Apple,1,12000,20%,9600,1152,Cash
+1497,1/1/2024,Asia,India,Gujarat,Surat,C497,Customer_497,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,Cash
+1498,1/22/2024,Asia,India,Maharashtra,Pune,C498,Customer_498,Electronics,iPhone 15,Apple,1,8000,20%,6400,768,UPI
+1499,1/26/2024,Asia,India,Gujarat,Ahmedabad,C499,Customer_499,Furniture,ErgoChair,IKEA,4,45000,20%,144000,17280,Credit Card
+1500,1/8/2024,Asia,India,Maharashtra,Mumbai,C500,Customer_500,Furniture,ErgoChair,IKEA,4,55000,5%,209000,25080,UPI
+1501,1/24/2024,Asia,India,Madhya Pradesh,Jabalpur,C501,Customer_501,Furniture,ErgoChair,IKEA,1,12000,10%,10800,1296,Net Banking
+1502,1/5/2024,Asia,India,Delhi,Ghaziabad,C502,Customer_502,Furniture,ErgoChair,IKEA,5,45000,5%,213750,25650,Cash
+1503,1/23/2024,Asia,India,Maharashtra,Nagpur,C503,Customer_503,Furniture,OfficeDesk,Featherlite,1,12000,10%,10800,1296,UPI
+1504,1/3/2024,Asia,India,Maharashtra,Nagpur,C504,Customer_504,Electronics,iPhone 15,Apple,2,8000,5%,15200,1824,Cash
+1505,1/17/2024,Asia,India,Maharashtra,Pune,C505,Customer_505,Furniture,ErgoChair,IKEA,4,45000,10%,162000,19440,UPI
+1506,1/28/2024,Asia,India,Gujarat,Vadodara,C506,Customer_506,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,UPI
+1507,1/16/2024,Asia,India,Delhi,New Delhi,C507,Customer_507,Furniture,OfficeDesk,Featherlite,1,45000,5%,42750,5130,Cash
+1508,1/18/2024,Asia,India,Madhya Pradesh,Indore,C508,Customer_508,Furniture,ErgoChair,IKEA,5,8000,5%,38000,4560,Cash
+1509,1/20/2024,Asia,India,Maharashtra,Nagpur,C509,Customer_509,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,Net Banking
+1510,1/21/2024,Asia,India,Maharashtra,Nagpur,C510,Customer_510,Furniture,ErgoChair,IKEA,4,8000,10%,28800,3456,UPI
+1511,1/19/2024,Asia,India,Delhi,Ghaziabad,C511,Customer_511,Furniture,ErgoChair,IKEA,4,12000,20%,38400,4608,UPI
+1512,1/22/2024,Asia,India,Gujarat,Ahmedabad,C512,Customer_512,Furniture,OfficeDesk,Featherlite,1,8000,5%,7600,912,UPI
+1513,1/30/2024,Asia,India,Madhya Pradesh,Bhopal,C513,Customer_513,Furniture,OfficeDesk,Featherlite,2,12000,20%,19200,2304,Net Banking
+1514,1/21/2024,Asia,India,Maharashtra,Mumbai,C514,Customer_514,Furniture,ErgoChair,IKEA,5,45000,10%,202500,24300,Credit Card
+1515,1/23/2024,Asia,India,Gujarat,Surat,C515,Customer_515,Electronics,Inspiron 15,Dell,3,12000,10%,32400,3888,Net Banking
+1516,1/15/2024,Asia,India,Gujarat,Surat,C516,Customer_516,Furniture,ErgoChair,IKEA,4,45000,10%,162000,19440,Net Banking
+1517,1/30/2024,Asia,India,Gujarat,Vadodara,C517,Customer_517,Electronics,Inspiron 15,Dell,5,45000,10%,202500,24300,Cash
+1518,1/13/2024,Asia,India,Delhi,Noida,C518,Customer_518,Furniture,OfficeDesk,Featherlite,5,12000,10%,54000,6480,UPI
+1519,1/6/2024,Asia,India,Gujarat,Vadodara,C519,Customer_519,Electronics,Inspiron 15,Dell,2,12000,5%,22800,2736,UPI
+1520,1/13/2024,Asia,India,Delhi,Noida,C520,Customer_520,Furniture,OfficeDesk,Featherlite,4,8000,20%,25600,3072,Credit Card
+1521,1/25/2024,Asia,India,Gujarat,Vadodara,C521,Customer_521,Furniture,ErgoChair,IKEA,4,45000,20%,144000,17280,Cash
+1522,1/19/2024,Asia,India,Maharashtra,Pune,C522,Customer_522,Electronics,Inspiron 15,Dell,4,8000,5%,30400,3648,Credit Card
+1523,1/9/2024,Asia,India,Delhi,Noida,C523,Customer_523,Electronics,Inspiron 15,Dell,3,12000,20%,28800,3456,Net Banking
+1524,1/5/2024,Asia,India,Madhya Pradesh,Indore,C524,Customer_524,Electronics,Inspiron 15,Dell,4,45000,10%,162000,19440,Cash
+1525,1/26/2024,Asia,India,Madhya Pradesh,Indore,C525,Customer_525,Electronics,iPhone 15,Apple,4,55000,20%,176000,21120,Net Banking
+1526,1/16/2024,Asia,India,Gujarat,Vadodara,C526,Customer_526,Furniture,OfficeDesk,Featherlite,1,8000,20%,6400,768,Net Banking
+1527,1/16/2024,Asia,India,Maharashtra,Mumbai,C527,Customer_527,Electronics,Inspiron 15,Dell,2,12000,10%,21600,2592,Net Banking
+1528,1/13/2024,Asia,India,Madhya Pradesh,Indore,C528,Customer_528,Electronics,iPhone 15,Apple,1,12000,5%,11400,1368,Cash
+1529,1/15/2024,Asia,India,Gujarat,Vadodara,C529,Customer_529,Furniture,ErgoChair,IKEA,1,12000,10%,10800,1296,Net Banking
+1530,1/3/2024,Asia,India,Gujarat,Ahmedabad,C530,Customer_530,Electronics,Inspiron 15,Dell,1,45000,10%,40500,4860,UPI
+1531,1/7/2024,Asia,India,Maharashtra,Mumbai,C531,Customer_531,Furniture,ErgoChair,IKEA,3,12000,5%,34200,4104,Credit Card
+1532,1/3/2024,Asia,India,Madhya Pradesh,Jabalpur,C532,Customer_532,Electronics,iPhone 15,Apple,3,45000,10%,121500,14580,Cash
+1533,1/21/2024,Asia,India,Madhya Pradesh,Indore,C533,Customer_533,Furniture,ErgoChair,IKEA,4,55000,10%,198000,23760,Net Banking
+1534,1/26/2024,Asia,India,Gujarat,Vadodara,C534,Customer_534,Furniture,OfficeDesk,Featherlite,3,45000,20%,108000,12960,Net Banking
+1535,1/25/2024,Asia,India,Delhi,Ghaziabad,C535,Customer_535,Furniture,OfficeDesk,Featherlite,4,55000,10%,198000,23760,Credit Card
+1536,1/3/2024,Asia,India,Madhya Pradesh,Gwalior,C536,Customer_536,Electronics,iPhone 15,Apple,2,12000,5%,22800,2736,UPI
+1537,1/27/2024,Asia,India,Gujarat,Vadodara,C537,Customer_537,Electronics,iPhone 15,Apple,3,8000,10%,21600,2592,Net Banking
+1538,1/21/2024,Asia,India,Gujarat,Vadodara,C538,Customer_538,Electronics,iPhone 15,Apple,1,45000,10%,40500,4860,Net Banking
+1539,1/15/2024,Asia,India,Gujarat,Ahmedabad,C539,Customer_539,Electronics,iPhone 15,Apple,1,45000,10%,40500,4860,Cash
+1540,1/9/2024,Asia,India,Gujarat,Vadodara,C540,Customer_540,Furniture,ErgoChair,IKEA,1,55000,10%,49500,5940,Credit Card
+1541,1/30/2024,Asia,India,Delhi,Ghaziabad,C541,Customer_541,Furniture,OfficeDesk,Featherlite,5,45000,10%,202500,24300,UPI
+1542,1/24/2024,Asia,India,Gujarat,Surat,C542,Customer_542,Furniture,OfficeDesk,Featherlite,3,8000,5%,22800,2736,Credit Card
+1543,1/4/2024,Asia,India,Madhya Pradesh,Indore,C543,Customer_543,Electronics,iPhone 15,Apple,2,55000,20%,88000,10560,Credit Card
+1544,1/12/2024,Asia,India,Maharashtra,Mumbai,C544,Customer_544,Electronics,iPhone 15,Apple,5,12000,20%,48000,5760,UPI
+1545,1/17/2024,Asia,India,Maharashtra,Pune,C545,Customer_545,Electronics,iPhone 15,Apple,2,55000,10%,99000,11880,Cash
+1546,1/13/2024,Asia,India,Maharashtra,Nagpur,C546,Customer_546,Electronics,iPhone 15,Apple,3,45000,5%,128250,15390,Net Banking
+1547,1/20/2024,Asia,India,Madhya Pradesh,Jabalpur,C547,Customer_547,Furniture,ErgoChair,IKEA,2,8000,5%,15200,1824,Credit Card
+1548,1/25/2024,Asia,India,Gujarat,Surat,C548,Customer_548,Electronics,Inspiron 15,Dell,5,45000,5%,213750,25650,UPI
+1549,1/14/2024,Asia,India,Maharashtra,Mumbai,C549,Customer_549,Furniture,OfficeDesk,Featherlite,1,55000,5%,52250,6270,Net Banking
+1550,1/1/2024,Asia,India,Madhya Pradesh,Indore,C550,Customer_550,Furniture,OfficeDesk,Featherlite,5,8000,20%,32000,3840,UPI
+1551,1/16/2024,Asia,India,Gujarat,Ahmedabad,C551,Customer_551,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,Net Banking
+1552,1/5/2024,Asia,India,Gujarat,Surat,C552,Customer_552,Furniture,OfficeDesk,Featherlite,5,55000,20%,220000,26400,Net Banking
+1553,1/5/2024,Asia,India,Maharashtra,Nagpur,C553,Customer_553,Furniture,OfficeDesk,Featherlite,1,8000,20%,6400,768,Cash
+1554,1/17/2024,Asia,India,Maharashtra,Nagpur,C554,Customer_554,Electronics,Inspiron 15,Dell,2,12000,20%,19200,2304,UPI
+1555,1/18/2024,Asia,India,Delhi,New Delhi,C555,Customer_555,Electronics,iPhone 15,Apple,1,45000,5%,42750,5130,Credit Card
+1556,1/14/2024,Asia,India,Delhi,Ghaziabad,C556,Customer_556,Furniture,ErgoChair,IKEA,2,55000,20%,88000,10560,Net Banking
+1557,1/20/2024,Asia,India,Delhi,Noida,C557,Customer_557,Furniture,ErgoChair,IKEA,3,45000,10%,121500,14580,Net Banking
+1558,1/10/2024,Asia,India,Gujarat,Ahmedabad,C558,Customer_558,Furniture,OfficeDesk,Featherlite,3,55000,10%,148500,17820,Credit Card
+1559,1/21/2024,Asia,India,Delhi,New Delhi,C559,Customer_559,Electronics,Inspiron 15,Dell,1,45000,10%,40500,4860,Credit Card
+1560,1/23/2024,Asia,India,Maharashtra,Nagpur,C560,Customer_560,Electronics,iPhone 15,Apple,5,12000,20%,48000,5760,UPI
+1561,1/7/2024,Asia,India,Maharashtra,Pune,C561,Customer_561,Furniture,ErgoChair,IKEA,5,45000,10%,202500,24300,Net Banking
+1562,1/7/2024,Asia,India,Delhi,New Delhi,C562,Customer_562,Electronics,iPhone 15,Apple,4,55000,20%,176000,21120,Credit Card
+1563,1/9/2024,Asia,India,Delhi,New Delhi,C563,Customer_563,Furniture,OfficeDesk,Featherlite,1,8000,5%,7600,912,Credit Card
+1564,1/17/2024,Asia,India,Delhi,New Delhi,C564,Customer_564,Furniture,ErgoChair,IKEA,4,12000,10%,43200,5184,UPI
+1565,1/29/2024,Asia,India,Delhi,New Delhi,C565,Customer_565,Electronics,iPhone 15,Apple,1,12000,20%,9600,1152,Credit Card
+1566,1/19/2024,Asia,India,Maharashtra,Mumbai,C566,Customer_566,Furniture,OfficeDesk,Featherlite,4,45000,20%,144000,17280,Credit Card
+1567,1/6/2024,Asia,India,Madhya Pradesh,Indore,C567,Customer_567,Electronics,Inspiron 15,Dell,1,12000,10%,10800,1296,UPI
+1568,1/30/2024,Asia,India,Delhi,New Delhi,C568,Customer_568,Furniture,OfficeDesk,Featherlite,4,55000,5%,209000,25080,Credit Card
+1569,1/18/2024,Asia,India,Madhya Pradesh,Gwalior,C569,Customer_569,Furniture,ErgoChair,IKEA,2,12000,10%,21600,2592,Credit Card
+1570,1/14/2024,Asia,India,Maharashtra,Pune,C570,Customer_570,Electronics,Inspiron 15,Dell,1,45000,20%,36000,4320,UPI
+1571,1/31/2024,Asia,India,Maharashtra,Nagpur,C571,Customer_571,Furniture,ErgoChair,IKEA,5,45000,10%,202500,24300,Credit Card
+1572,1/4/2024,Asia,India,Gujarat,Ahmedabad,C572,Customer_572,Electronics,Inspiron 15,Dell,2,12000,20%,19200,2304,UPI
+1573,1/14/2024,Asia,India,Madhya Pradesh,Bhopal,C573,Customer_573,Furniture,ErgoChair,IKEA,5,45000,10%,202500,24300,Credit Card
+1574,1/28/2024,Asia,India,Delhi,Ghaziabad,C574,Customer_574,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,Credit Card
+1575,1/3/2024,Asia,India,Delhi,New Delhi,C575,Customer_575,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,UPI
+1576,1/26/2024,Asia,India,Maharashtra,Mumbai,C576,Customer_576,Electronics,iPhone 15,Apple,1,55000,5%,52250,6270,UPI
+1577,1/19/2024,Asia,India,Maharashtra,Mumbai,C577,Customer_577,Furniture,OfficeDesk,Featherlite,2,8000,20%,12800,1536,Cash
+1578,1/24/2024,Asia,India,Delhi,Ghaziabad,C578,Customer_578,Furniture,ErgoChair,IKEA,2,55000,20%,88000,10560,Credit Card
+1579,1/4/2024,Asia,India,Madhya Pradesh,Indore,C579,Customer_579,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,Net Banking
+1580,1/27/2024,Asia,India,Delhi,New Delhi,C580,Customer_580,Electronics,Inspiron 15,Dell,1,12000,10%,10800,1296,Credit Card
+1581,1/7/2024,Asia,India,Delhi,New Delhi,C581,Customer_581,Furniture,ErgoChair,IKEA,2,8000,5%,15200,1824,UPI
+1582,1/12/2024,Asia,India,Gujarat,Vadodara,C582,Customer_582,Furniture,ErgoChair,IKEA,5,12000,10%,54000,6480,Net Banking
+1583,1/13/2024,Asia,India,Delhi,New Delhi,C583,Customer_583,Electronics,iPhone 15,Apple,1,8000,5%,7600,912,UPI
+1584,1/30/2024,Asia,India,Madhya Pradesh,Gwalior,C584,Customer_584,Electronics,Inspiron 15,Dell,3,55000,20%,132000,15840,Credit Card
+1585,1/9/2024,Asia,India,Gujarat,Ahmedabad,C585,Customer_585,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Cash
+1586,1/22/2024,Asia,India,Madhya Pradesh,Indore,C586,Customer_586,Furniture,OfficeDesk,Featherlite,3,8000,20%,19200,2304,UPI
+1587,1/30/2024,Asia,India,Madhya Pradesh,Jabalpur,C587,Customer_587,Furniture,ErgoChair,IKEA,1,12000,10%,10800,1296,Net Banking
+1588,1/19/2024,Asia,India,Maharashtra,Nagpur,C588,Customer_588,Electronics,Inspiron 15,Dell,2,12000,10%,21600,2592,Credit Card
+1589,1/15/2024,Asia,India,Gujarat,Surat,C589,Customer_589,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,Cash
+1590,1/12/2024,Asia,India,Delhi,Ghaziabad,C590,Customer_590,Electronics,Inspiron 15,Dell,2,8000,5%,15200,1824,Net Banking
+1591,1/29/2024,Asia,India,Delhi,Noida,C591,Customer_591,Electronics,Inspiron 15,Dell,3,45000,5%,128250,15390,Cash
+1592,1/14/2024,Asia,India,Madhya Pradesh,Gwalior,C592,Customer_592,Electronics,iPhone 15,Apple,1,8000,5%,7600,912,UPI
+1593,1/13/2024,Asia,India,Delhi,Noida,C593,Customer_593,Furniture,OfficeDesk,Featherlite,4,8000,5%,30400,3648,UPI
+1594,1/28/2024,Asia,India,Madhya Pradesh,Indore,C594,Customer_594,Electronics,iPhone 15,Apple,3,8000,10%,21600,2592,Credit Card
+1595,1/4/2024,Asia,India,Madhya Pradesh,Gwalior,C595,Customer_595,Furniture,ErgoChair,IKEA,2,12000,20%,19200,2304,Cash
+1596,1/6/2024,Asia,India,Madhya Pradesh,Bhopal,C596,Customer_596,Furniture,OfficeDesk,Featherlite,2,8000,20%,12800,1536,Net Banking
+1597,1/8/2024,Asia,India,Madhya Pradesh,Gwalior,C597,Customer_597,Electronics,Inspiron 15,Dell,4,8000,5%,30400,3648,Net Banking
+1598,1/5/2024,Asia,India,Gujarat,Surat,C598,Customer_598,Furniture,ErgoChair,IKEA,1,12000,10%,10800,1296,Cash
+1599,1/3/2024,Asia,India,Maharashtra,Nagpur,C599,Customer_599,Electronics,Inspiron 15,Dell,2,8000,10%,14400,1728,UPI
+1600,1/9/2024,Asia,India,Delhi,Ghaziabad,C600,Customer_600,Furniture,ErgoChair,IKEA,1,12000,5%,11400,1368,UPI
+1601,1/23/2024,Asia,India,Delhi,New Delhi,C601,Customer_601,Furniture,OfficeDesk,Featherlite,3,45000,20%,108000,12960,Net Banking
+1602,1/18/2024,Asia,India,Gujarat,Surat,C602,Customer_602,Electronics,Inspiron 15,Dell,3,55000,5%,156750,18810,UPI
+1603,1/14/2024,Asia,India,Delhi,Noida,C603,Customer_603,Furniture,ErgoChair,IKEA,3,12000,20%,28800,3456,Cash
+1604,1/25/2024,Asia,India,Delhi,Noida,C604,Customer_604,Furniture,OfficeDesk,Featherlite,1,8000,5%,7600,912,Net Banking
+1605,1/25/2024,Asia,India,Maharashtra,Pune,C605,Customer_605,Furniture,OfficeDesk,Featherlite,4,45000,5%,171000,20520,UPI
+1606,1/13/2024,Asia,India,Delhi,Noida,C606,Customer_606,Electronics,Inspiron 15,Dell,2,8000,10%,14400,1728,Credit Card
+1607,1/24/2024,Asia,India,Maharashtra,Mumbai,C607,Customer_607,Furniture,ErgoChair,IKEA,1,12000,5%,11400,1368,Credit Card
+1608,1/9/2024,Asia,India,Gujarat,Ahmedabad,C608,Customer_608,Electronics,iPhone 15,Apple,4,8000,10%,28800,3456,UPI
+1609,1/31/2024,Asia,India,Maharashtra,Pune,C609,Customer_609,Electronics,iPhone 15,Apple,5,12000,10%,54000,6480,Cash
+1610,1/16/2024,Asia,India,Gujarat,Vadodara,C610,Customer_610,Furniture,OfficeDesk,Featherlite,4,8000,5%,30400,3648,Credit Card
+1611,1/17/2024,Asia,India,Gujarat,Surat,C611,Customer_611,Furniture,ErgoChair,IKEA,4,12000,5%,45600,5472,UPI
+1612,1/27/2024,Asia,India,Gujarat,Vadodara,C612,Customer_612,Electronics,iPhone 15,Apple,4,45000,20%,144000,17280,Net Banking
+1613,1/10/2024,Asia,India,Gujarat,Surat,C613,Customer_613,Electronics,iPhone 15,Apple,4,45000,5%,171000,20520,Credit Card
+1614,1/21/2024,Asia,India,Gujarat,Vadodara,C614,Customer_614,Electronics,Inspiron 15,Dell,2,55000,10%,99000,11880,UPI
+1615,1/20/2024,Asia,India,Delhi,Noida,C615,Customer_615,Electronics,Inspiron 15,Dell,3,55000,10%,148500,17820,Credit Card
+1616,1/27/2024,Asia,India,Maharashtra,Mumbai,C616,Customer_616,Furniture,OfficeDesk,Featherlite,5,55000,10%,247500,29700,Cash
+1617,1/18/2024,Asia,India,Delhi,Ghaziabad,C617,Customer_617,Furniture,OfficeDesk,Featherlite,5,12000,20%,48000,5760,Cash
+1618,1/13/2024,Asia,India,Madhya Pradesh,Gwalior,C618,Customer_618,Furniture,ErgoChair,IKEA,3,45000,20%,108000,12960,Cash
+1619,1/31/2024,Asia,India,Madhya Pradesh,Jabalpur,C619,Customer_619,Electronics,iPhone 15,Apple,2,8000,10%,14400,1728,Credit Card
+1620,1/8/2024,Asia,India,Maharashtra,Pune,C620,Customer_620,Electronics,iPhone 15,Apple,2,8000,10%,14400,1728,Credit Card
+1621,1/18/2024,Asia,India,Maharashtra,Pune,C621,Customer_621,Electronics,iPhone 15,Apple,4,55000,20%,176000,21120,Net Banking
+1622,1/21/2024,Asia,India,Maharashtra,Mumbai,C622,Customer_622,Furniture,ErgoChair,IKEA,1,55000,5%,52250,6270,UPI
+1623,1/29/2024,Asia,India,Gujarat,Ahmedabad,C623,Customer_623,Electronics,Inspiron 15,Dell,1,8000,10%,7200,864,Cash
+1624,1/16/2024,Asia,India,Madhya Pradesh,Bhopal,C624,Customer_624,Electronics,Inspiron 15,Dell,4,12000,5%,45600,5472,Credit Card
+1625,1/9/2024,Asia,India,Madhya Pradesh,Bhopal,C625,Customer_625,Electronics,iPhone 15,Apple,1,8000,5%,7600,912,Credit Card
+1626,1/22/2024,Asia,India,Maharashtra,Mumbai,C626,Customer_626,Electronics,Inspiron 15,Dell,4,55000,20%,176000,21120,Cash
+1627,1/26/2024,Asia,India,Maharashtra,Mumbai,C627,Customer_627,Furniture,OfficeDesk,Featherlite,4,8000,10%,28800,3456,Credit Card
+1628,1/4/2024,Asia,India,Gujarat,Vadodara,C628,Customer_628,Electronics,iPhone 15,Apple,1,55000,20%,44000,5280,Cash
+1629,1/24/2024,Asia,India,Maharashtra,Nagpur,C629,Customer_629,Electronics,Inspiron 15,Dell,1,12000,5%,11400,1368,UPI
+1630,1/31/2024,Asia,India,Madhya Pradesh,Indore,C630,Customer_630,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,UPI
+1631,1/28/2024,Asia,India,Gujarat,Vadodara,C631,Customer_631,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,Cash
+1632,1/29/2024,Asia,India,Madhya Pradesh,Indore,C632,Customer_632,Electronics,iPhone 15,Apple,4,12000,5%,45600,5472,Cash
+1633,1/1/2024,Asia,India,Delhi,Ghaziabad,C633,Customer_633,Electronics,iPhone 15,Apple,3,12000,20%,28800,3456,Credit Card
+1634,1/6/2024,Asia,India,Gujarat,Surat,C634,Customer_634,Electronics,iPhone 15,Apple,2,55000,10%,99000,11880,Cash
+1635,1/7/2024,Asia,India,Madhya Pradesh,Gwalior,C635,Customer_635,Electronics,iPhone 15,Apple,2,55000,10%,99000,11880,Net Banking
+1636,1/29/2024,Asia,India,Madhya Pradesh,Indore,C636,Customer_636,Furniture,ErgoChair,IKEA,5,8000,5%,38000,4560,Credit Card
+1637,1/25/2024,Asia,India,Madhya Pradesh,Indore,C637,Customer_637,Electronics,iPhone 15,Apple,2,55000,10%,99000,11880,UPI
+1638,1/17/2024,Asia,India,Madhya Pradesh,Gwalior,C638,Customer_638,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,Credit Card
+1639,1/18/2024,Asia,India,Delhi,Ghaziabad,C639,Customer_639,Electronics,iPhone 15,Apple,3,45000,5%,128250,15390,UPI
+1640,1/5/2024,Asia,India,Maharashtra,Mumbai,C640,Customer_640,Furniture,ErgoChair,IKEA,5,45000,5%,213750,25650,Net Banking
+1641,1/10/2024,Asia,India,Madhya Pradesh,Bhopal,C641,Customer_641,Electronics,iPhone 15,Apple,4,45000,20%,144000,17280,UPI
+1642,1/31/2024,Asia,India,Gujarat,Surat,C642,Customer_642,Furniture,OfficeDesk,Featherlite,1,12000,20%,9600,1152,Cash
+1643,1/9/2024,Asia,India,Maharashtra,Mumbai,C643,Customer_643,Electronics,iPhone 15,Apple,3,55000,10%,148500,17820,Cash
+1644,1/12/2024,Asia,India,Gujarat,Ahmedabad,C644,Customer_644,Furniture,ErgoChair,IKEA,2,8000,20%,12800,1536,Cash
+1645,1/7/2024,Asia,India,Gujarat,Surat,C645,Customer_645,Electronics,iPhone 15,Apple,5,12000,5%,57000,6840,Credit Card
+1646,1/28/2024,Asia,India,Gujarat,Ahmedabad,C646,Customer_646,Electronics,Inspiron 15,Dell,3,8000,5%,22800,2736,Credit Card
+1647,1/24/2024,Asia,India,Madhya Pradesh,Gwalior,C647,Customer_647,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,UPI
+1648,1/24/2024,Asia,India,Madhya Pradesh,Indore,C648,Customer_648,Electronics,iPhone 15,Apple,5,45000,20%,180000,21600,Net Banking
+1649,1/20/2024,Asia,India,Gujarat,Ahmedabad,C649,Customer_649,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,Net Banking
+1650,1/17/2024,Asia,India,Gujarat,Ahmedabad,C650,Customer_650,Furniture,ErgoChair,IKEA,5,45000,10%,202500,24300,Credit Card
+1651,1/26/2024,Asia,India,Gujarat,Ahmedabad,C651,Customer_651,Electronics,Inspiron 15,Dell,1,8000,10%,7200,864,UPI
+1652,1/29/2024,Asia,India,Maharashtra,Pune,C652,Customer_652,Electronics,Inspiron 15,Dell,5,55000,5%,261250,31350,Net Banking
+1653,1/8/2024,Asia,India,Delhi,Ghaziabad,C653,Customer_653,Electronics,iPhone 15,Apple,5,8000,10%,36000,4320,Credit Card
+1654,1/24/2024,Asia,India,Maharashtra,Nagpur,C654,Customer_654,Furniture,ErgoChair,IKEA,1,45000,10%,40500,4860,Cash
+1655,1/20/2024,Asia,India,Delhi,Noida,C655,Customer_655,Electronics,iPhone 15,Apple,2,8000,5%,15200,1824,Cash
+1656,1/4/2024,Asia,India,Madhya Pradesh,Gwalior,C656,Customer_656,Furniture,ErgoChair,IKEA,3,45000,10%,121500,14580,Cash
+1657,1/1/2024,Asia,India,Maharashtra,Mumbai,C657,Customer_657,Electronics,iPhone 15,Apple,2,12000,5%,22800,2736,Credit Card
+1658,1/22/2024,Asia,India,Gujarat,Surat,C658,Customer_658,Electronics,iPhone 15,Apple,5,12000,10%,54000,6480,Net Banking
+1659,1/23/2024,Asia,India,Madhya Pradesh,Gwalior,C659,Customer_659,Electronics,iPhone 15,Apple,1,8000,5%,7600,912,Credit Card
+1660,1/12/2024,Asia,India,Maharashtra,Pune,C660,Customer_660,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,Net Banking
+1661,1/26/2024,Asia,India,Delhi,Ghaziabad,C661,Customer_661,Electronics,iPhone 15,Apple,4,55000,5%,209000,25080,Net Banking
+1662,1/14/2024,Asia,India,Gujarat,Surat,C662,Customer_662,Furniture,ErgoChair,IKEA,5,12000,5%,57000,6840,Net Banking
+1663,1/16/2024,Asia,India,Madhya Pradesh,Indore,C663,Customer_663,Furniture,OfficeDesk,Featherlite,5,55000,10%,247500,29700,Net Banking
+1664,1/16/2024,Asia,India,Delhi,Ghaziabad,C664,Customer_664,Furniture,OfficeDesk,Featherlite,2,55000,10%,99000,11880,UPI
+1665,1/8/2024,Asia,India,Gujarat,Surat,C665,Customer_665,Furniture,ErgoChair,IKEA,2,45000,5%,85500,10260,UPI
+1666,1/12/2024,Asia,India,Maharashtra,Pune,C666,Customer_666,Electronics,Inspiron 15,Dell,1,45000,20%,36000,4320,Net Banking
+1667,1/5/2024,Asia,India,Madhya Pradesh,Jabalpur,C667,Customer_667,Furniture,OfficeDesk,Featherlite,3,12000,10%,32400,3888,Net Banking
+1668,1/28/2024,Asia,India,Madhya Pradesh,Jabalpur,C668,Customer_668,Electronics,iPhone 15,Apple,3,8000,10%,21600,2592,Credit Card
+1669,1/25/2024,Asia,India,Gujarat,Surat,C669,Customer_669,Furniture,ErgoChair,IKEA,3,55000,5%,156750,18810,UPI
+1670,1/11/2024,Asia,India,Gujarat,Ahmedabad,C670,Customer_670,Furniture,ErgoChair,IKEA,5,12000,20%,48000,5760,UPI
+1671,1/27/2024,Asia,India,Delhi,Ghaziabad,C671,Customer_671,Furniture,OfficeDesk,Featherlite,2,12000,20%,19200,2304,Cash
+1672,1/25/2024,Asia,India,Gujarat,Surat,C672,Customer_672,Electronics,Inspiron 15,Dell,2,12000,20%,19200,2304,Net Banking
+1673,1/4/2024,Asia,India,Maharashtra,Mumbai,C673,Customer_673,Furniture,ErgoChair,IKEA,1,8000,20%,6400,768,Cash
+1674,1/6/2024,Asia,India,Delhi,Noida,C674,Customer_674,Electronics,Inspiron 15,Dell,5,45000,10%,202500,24300,UPI
+1675,1/23/2024,Asia,India,Gujarat,Surat,C675,Customer_675,Electronics,iPhone 15,Apple,3,8000,10%,21600,2592,Net Banking
+1676,1/14/2024,Asia,India,Maharashtra,Pune,C676,Customer_676,Electronics,iPhone 15,Apple,1,8000,10%,7200,864,Cash
+1677,1/4/2024,Asia,India,Gujarat,Surat,C677,Customer_677,Furniture,OfficeDesk,Featherlite,5,8000,20%,32000,3840,Cash
+1678,1/9/2024,Asia,India,Maharashtra,Pune,C678,Customer_678,Electronics,Inspiron 15,Dell,1,8000,20%,6400,768,Credit Card
+1679,1/2/2024,Asia,India,Delhi,New Delhi,C679,Customer_679,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Net Banking
+1680,1/23/2024,Asia,India,Madhya Pradesh,Indore,C680,Customer_680,Electronics,iPhone 15,Apple,3,8000,10%,21600,2592,Cash
+1681,1/19/2024,Asia,India,Maharashtra,Pune,C681,Customer_681,Electronics,iPhone 15,Apple,5,55000,20%,220000,26400,Cash
+1682,1/30/2024,Asia,India,Gujarat,Surat,C682,Customer_682,Furniture,OfficeDesk,Featherlite,2,55000,10%,99000,11880,Net Banking
+1683,1/19/2024,Asia,India,Delhi,Noida,C683,Customer_683,Furniture,OfficeDesk,Featherlite,3,12000,10%,32400,3888,UPI
+1684,1/19/2024,Asia,India,Maharashtra,Pune,C684,Customer_684,Electronics,Inspiron 15,Dell,5,12000,5%,57000,6840,Net Banking
+1685,1/9/2024,Asia,India,Gujarat,Surat,C685,Customer_685,Electronics,Inspiron 15,Dell,3,12000,10%,32400,3888,UPI
+1686,1/31/2024,Asia,India,Delhi,Ghaziabad,C686,Customer_686,Furniture,ErgoChair,IKEA,3,55000,5%,156750,18810,UPI
+1687,1/11/2024,Asia,India,Gujarat,Surat,C687,Customer_687,Electronics,iPhone 15,Apple,2,8000,20%,12800,1536,UPI
+1688,1/6/2024,Asia,India,Madhya Pradesh,Bhopal,C688,Customer_688,Furniture,ErgoChair,IKEA,2,12000,10%,21600,2592,Credit Card
+1689,1/2/2024,Asia,India,Maharashtra,Mumbai,C689,Customer_689,Electronics,Inspiron 15,Dell,4,45000,10%,162000,19440,Net Banking
+1690,1/6/2024,Asia,India,Gujarat,Surat,C690,Customer_690,Electronics,iPhone 15,Apple,5,55000,10%,247500,29700,Net Banking
+1691,1/5/2024,Asia,India,Madhya Pradesh,Jabalpur,C691,Customer_691,Electronics,Inspiron 15,Dell,1,8000,10%,7200,864,Credit Card
+1692,1/22/2024,Asia,India,Madhya Pradesh,Gwalior,C692,Customer_692,Furniture,OfficeDesk,Featherlite,3,55000,20%,132000,15840,Credit Card
+1693,1/13/2024,Asia,India,Delhi,New Delhi,C693,Customer_693,Furniture,ErgoChair,IKEA,1,8000,10%,7200,864,UPI
+1694,1/8/2024,Asia,India,Madhya Pradesh,Jabalpur,C694,Customer_694,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,UPI
+1695,1/28/2024,Asia,India,Delhi,Ghaziabad,C695,Customer_695,Electronics,Inspiron 15,Dell,3,55000,10%,148500,17820,Credit Card
+1696,1/27/2024,Asia,India,Maharashtra,Pune,C696,Customer_696,Electronics,iPhone 15,Apple,4,12000,10%,43200,5184,UPI
+1697,1/11/2024,Asia,India,Delhi,Ghaziabad,C697,Customer_697,Furniture,ErgoChair,IKEA,3,8000,20%,19200,2304,Net Banking
+1698,1/2/2024,Asia,India,Delhi,New Delhi,C698,Customer_698,Furniture,ErgoChair,IKEA,5,55000,20%,220000,26400,Net Banking
+1699,1/1/2024,Asia,India,Delhi,New Delhi,C699,Customer_699,Electronics,Inspiron 15,Dell,5,55000,20%,220000,26400,Credit Card
+1700,1/23/2024,Asia,India,Gujarat,Ahmedabad,C700,Customer_700,Electronics,iPhone 15,Apple,3,45000,20%,108000,12960,Cash
+1701,1/8/2024,Asia,India,Maharashtra,Mumbai,C701,Customer_701,Electronics,iPhone 15,Apple,3,55000,20%,132000,15840,Net Banking
+1702,1/23/2024,Asia,India,Madhya Pradesh,Jabalpur,C702,Customer_702,Electronics,Inspiron 15,Dell,2,55000,5%,104500,12540,Credit Card
+1703,1/17/2024,Asia,India,Madhya Pradesh,Jabalpur,C703,Customer_703,Electronics,iPhone 15,Apple,2,12000,10%,21600,2592,Credit Card
+1704,1/31/2024,Asia,India,Delhi,New Delhi,C704,Customer_704,Furniture,ErgoChair,IKEA,1,55000,10%,49500,5940,Net Banking
+1705,1/9/2024,Asia,India,Maharashtra,Pune,C705,Customer_705,Electronics,iPhone 15,Apple,1,12000,10%,10800,1296,UPI
+1706,1/11/2024,Asia,India,Delhi,New Delhi,C706,Customer_706,Electronics,Inspiron 15,Dell,2,8000,5%,15200,1824,Cash
+1707,1/10/2024,Asia,India,Madhya Pradesh,Gwalior,C707,Customer_707,Furniture,OfficeDesk,Featherlite,1,12000,10%,10800,1296,Credit Card
+1708,1/23/2024,Asia,India,Gujarat,Surat,C708,Customer_708,Furniture,OfficeDesk,Featherlite,2,12000,20%,19200,2304,Credit Card
+1709,1/24/2024,Asia,India,Gujarat,Surat,C709,Customer_709,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,Credit Card
+1710,1/17/2024,Asia,India,Delhi,New Delhi,C710,Customer_710,Electronics,iPhone 15,Apple,5,55000,10%,247500,29700,Credit Card
+1711,1/26/2024,Asia,India,Maharashtra,Pune,C711,Customer_711,Furniture,OfficeDesk,Featherlite,5,55000,5%,261250,31350,Net Banking
+1712,1/13/2024,Asia,India,Gujarat,Vadodara,C712,Customer_712,Electronics,Inspiron 15,Dell,2,45000,5%,85500,10260,Net Banking
+1713,1/7/2024,Asia,India,Gujarat,Surat,C713,Customer_713,Furniture,ErgoChair,IKEA,1,8000,20%,6400,768,Credit Card
+1714,1/21/2024,Asia,India,Maharashtra,Pune,C714,Customer_714,Furniture,ErgoChair,IKEA,5,12000,20%,48000,5760,Credit Card
+1715,1/21/2024,Asia,India,Madhya Pradesh,Indore,C715,Customer_715,Furniture,OfficeDesk,Featherlite,4,45000,20%,144000,17280,Net Banking
+1716,1/23/2024,Asia,India,Delhi,Noida,C716,Customer_716,Furniture,OfficeDesk,Featherlite,2,45000,5%,85500,10260,UPI
+1717,1/13/2024,Asia,India,Gujarat,Vadodara,C717,Customer_717,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,UPI
+1718,1/29/2024,Asia,India,Madhya Pradesh,Jabalpur,C718,Customer_718,Electronics,Inspiron 15,Dell,1,12000,10%,10800,1296,Net Banking
+1719,1/29/2024,Asia,India,Delhi,Noida,C719,Customer_719,Furniture,OfficeDesk,Featherlite,4,8000,20%,25600,3072,Net Banking
+1720,1/15/2024,Asia,India,Madhya Pradesh,Indore,C720,Customer_720,Electronics,Inspiron 15,Dell,5,8000,20%,32000,3840,UPI
+1721,1/22/2024,Asia,India,Maharashtra,Nagpur,C721,Customer_721,Furniture,OfficeDesk,Featherlite,4,45000,5%,171000,20520,UPI
+1722,1/28/2024,Asia,India,Delhi,Ghaziabad,C722,Customer_722,Electronics,Inspiron 15,Dell,5,12000,20%,48000,5760,Net Banking
+1723,1/4/2024,Asia,India,Gujarat,Ahmedabad,C723,Customer_723,Furniture,OfficeDesk,Featherlite,1,45000,10%,40500,4860,UPI
+1724,1/21/2024,Asia,India,Maharashtra,Pune,C724,Customer_724,Electronics,iPhone 15,Apple,5,55000,5%,261250,31350,Credit Card
+1725,1/20/2024,Asia,India,Gujarat,Vadodara,C725,Customer_725,Furniture,ErgoChair,IKEA,5,12000,5%,57000,6840,Cash
+1726,1/25/2024,Asia,India,Maharashtra,Pune,C726,Customer_726,Furniture,OfficeDesk,Featherlite,1,8000,10%,7200,864,Cash
+1727,1/23/2024,Asia,India,Gujarat,Surat,C727,Customer_727,Furniture,OfficeDesk,Featherlite,1,8000,20%,6400,768,UPI
+1728,1/13/2024,Asia,India,Maharashtra,Mumbai,C728,Customer_728,Electronics,iPhone 15,Apple,3,8000,5%,22800,2736,Net Banking
+1729,1/16/2024,Asia,India,Gujarat,Vadodara,C729,Customer_729,Electronics,iPhone 15,Apple,1,55000,20%,44000,5280,Net Banking
+1730,1/13/2024,Asia,India,Madhya Pradesh,Indore,C730,Customer_730,Electronics,iPhone 15,Apple,4,8000,10%,28800,3456,Cash
+1731,1/21/2024,Asia,India,Maharashtra,Nagpur,C731,Customer_731,Electronics,Inspiron 15,Dell,3,8000,10%,21600,2592,Net Banking
+1732,1/26/2024,Asia,India,Gujarat,Vadodara,C732,Customer_732,Furniture,OfficeDesk,Featherlite,2,45000,20%,72000,8640,Net Banking
+1733,1/13/2024,Asia,India,Madhya Pradesh,Indore,C733,Customer_733,Furniture,OfficeDesk,Featherlite,5,12000,10%,54000,6480,Credit Card
+1734,1/23/2024,Asia,India,Gujarat,Vadodara,C734,Customer_734,Furniture,OfficeDesk,Featherlite,2,8000,10%,14400,1728,Cash
+1735,1/9/2024,Asia,India,Madhya Pradesh,Indore,C735,Customer_735,Furniture,ErgoChair,IKEA,1,8000,5%,7600,912,Credit Card
+1736,1/4/2024,Asia,India,Maharashtra,Mumbai,C736,Customer_736,Electronics,Inspiron 15,Dell,2,12000,5%,22800,2736,UPI
+1737,1/24/2024,Asia,India,Madhya Pradesh,Bhopal,C737,Customer_737,Electronics,iPhone 15,Apple,4,8000,5%,30400,3648,Credit Card
+1738,1/10/2024,Asia,India,Madhya Pradesh,Indore,C738,Customer_738,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,Net Banking
+1739,1/28/2024,Asia,India,Madhya Pradesh,Indore,C739,Customer_739,Furniture,ErgoChair,IKEA,2,8000,20%,12800,1536,Cash
+1740,1/19/2024,Asia,India,Maharashtra,Pune,C740,Customer_740,Furniture,ErgoChair,IKEA,5,12000,5%,57000,6840,Net Banking
+1741,1/17/2024,Asia,India,Madhya Pradesh,Indore,C741,Customer_741,Electronics,Inspiron 15,Dell,1,12000,5%,11400,1368,UPI
+1742,1/26/2024,Asia,India,Madhya Pradesh,Bhopal,C742,Customer_742,Electronics,Inspiron 15,Dell,4,45000,10%,162000,19440,Net Banking
+1743,1/31/2024,Asia,India,Madhya Pradesh,Gwalior,C743,Customer_743,Furniture,OfficeDesk,Featherlite,1,12000,10%,10800,1296,Cash
+1744,1/11/2024,Asia,India,Gujarat,Ahmedabad,C744,Customer_744,Furniture,OfficeDesk,Featherlite,3,8000,5%,22800,2736,Credit Card
+1745,1/12/2024,Asia,India,Gujarat,Vadodara,C745,Customer_745,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,Cash
+1746,1/22/2024,Asia,India,Delhi,Noida,C746,Customer_746,Furniture,OfficeDesk,Featherlite,2,12000,5%,22800,2736,Cash
+1747,1/20/2024,Asia,India,Gujarat,Surat,C747,Customer_747,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,Net Banking
+1748,1/25/2024,Asia,India,Madhya Pradesh,Jabalpur,C748,Customer_748,Electronics,iPhone 15,Apple,5,12000,20%,48000,5760,UPI
+1749,1/29/2024,Asia,India,Gujarat,Ahmedabad,C749,Customer_749,Electronics,Inspiron 15,Dell,3,8000,20%,19200,2304,Credit Card
+1750,1/22/2024,Asia,India,Delhi,Noida,C750,Customer_750,Electronics,Inspiron 15,Dell,5,55000,10%,247500,29700,Net Banking
+1751,1/12/2024,Asia,India,Madhya Pradesh,Bhopal,C751,Customer_751,Electronics,Inspiron 15,Dell,2,12000,10%,21600,2592,Cash
+1752,1/7/2024,Asia,India,Delhi,New Delhi,C752,Customer_752,Furniture,OfficeDesk,Featherlite,3,45000,20%,108000,12960,Credit Card
+1753,1/1/2024,Asia,India,Madhya Pradesh,Jabalpur,C753,Customer_753,Furniture,ErgoChair,IKEA,2,8000,5%,15200,1824,Credit Card
+1754,1/2/2024,Asia,India,Maharashtra,Nagpur,C754,Customer_754,Electronics,iPhone 15,Apple,3,55000,20%,132000,15840,UPI
+1755,1/25/2024,Asia,India,Delhi,Noida,C755,Customer_755,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,Net Banking
+1756,1/1/2024,Asia,India,Madhya Pradesh,Bhopal,C756,Customer_756,Furniture,OfficeDesk,Featherlite,3,55000,20%,132000,15840,Cash
+1757,1/4/2024,Asia,India,Gujarat,Vadodara,C757,Customer_757,Electronics,Inspiron 15,Dell,5,55000,10%,247500,29700,Net Banking
+1758,1/24/2024,Asia,India,Maharashtra,Mumbai,C758,Customer_758,Furniture,OfficeDesk,Featherlite,3,55000,10%,148500,17820,UPI
+1759,1/25/2024,Asia,India,Maharashtra,Pune,C759,Customer_759,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,UPI
+1760,1/8/2024,Asia,India,Madhya Pradesh,Bhopal,C760,Customer_760,Electronics,iPhone 15,Apple,3,55000,5%,156750,18810,UPI
+1761,1/1/2024,Asia,India,Gujarat,Vadodara,C761,Customer_761,Furniture,OfficeDesk,Featherlite,3,45000,10%,121500,14580,Credit Card
+1762,1/30/2024,Asia,India,Maharashtra,Mumbai,C762,Customer_762,Furniture,ErgoChair,IKEA,5,12000,10%,54000,6480,Net Banking
+1763,1/11/2024,Asia,India,Maharashtra,Nagpur,C763,Customer_763,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,UPI
+1764,1/22/2024,Asia,India,Gujarat,Surat,C764,Customer_764,Electronics,iPhone 15,Apple,1,55000,20%,44000,5280,UPI
+1765,1/13/2024,Asia,India,Gujarat,Ahmedabad,C765,Customer_765,Electronics,Inspiron 15,Dell,4,45000,5%,171000,20520,UPI
+1766,1/21/2024,Asia,India,Madhya Pradesh,Bhopal,C766,Customer_766,Electronics,iPhone 15,Apple,1,45000,20%,36000,4320,Net Banking
+1767,1/16/2024,Asia,India,Maharashtra,Mumbai,C767,Customer_767,Furniture,ErgoChair,IKEA,5,55000,5%,261250,31350,Net Banking
+1768,1/31/2024,Asia,India,Delhi,Noida,C768,Customer_768,Furniture,OfficeDesk,Featherlite,2,55000,20%,88000,10560,Cash
+1769,1/15/2024,Asia,India,Delhi,Noida,C769,Customer_769,Furniture,OfficeDesk,Featherlite,5,8000,10%,36000,4320,Cash
+1770,1/16/2024,Asia,India,Maharashtra,Pune,C770,Customer_770,Furniture,OfficeDesk,Featherlite,4,8000,10%,28800,3456,UPI
+1771,1/6/2024,Asia,India,Gujarat,Surat,C771,Customer_771,Electronics,iPhone 15,Apple,4,55000,20%,176000,21120,Net Banking
+1772,1/28/2024,Asia,India,Delhi,New Delhi,C772,Customer_772,Furniture,OfficeDesk,Featherlite,1,8000,5%,7600,912,UPI
+1773,1/13/2024,Asia,India,Delhi,Noida,C773,Customer_773,Electronics,Inspiron 15,Dell,3,8000,20%,19200,2304,UPI
+1774,1/18/2024,Asia,India,Maharashtra,Mumbai,C774,Customer_774,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,Cash
+1775,1/6/2024,Asia,India,Gujarat,Surat,C775,Customer_775,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,UPI
+1776,1/14/2024,Asia,India,Madhya Pradesh,Bhopal,C776,Customer_776,Furniture,ErgoChair,IKEA,1,55000,10%,49500,5940,Cash
+1777,1/11/2024,Asia,India,Delhi,New Delhi,C777,Customer_777,Furniture,ErgoChair,IKEA,3,12000,20%,28800,3456,Credit Card
+1778,1/1/2024,Asia,India,Madhya Pradesh,Indore,C778,Customer_778,Furniture,ErgoChair,IKEA,2,12000,5%,22800,2736,UPI
+1779,1/6/2024,Asia,India,Madhya Pradesh,Gwalior,C779,Customer_779,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,Credit Card
+1780,1/15/2024,Asia,India,Madhya Pradesh,Gwalior,C780,Customer_780,Furniture,OfficeDesk,Featherlite,5,12000,20%,48000,5760,UPI
+1781,1/23/2024,Asia,India,Delhi,New Delhi,C781,Customer_781,Furniture,OfficeDesk,Featherlite,5,45000,10%,202500,24300,Cash
+1782,1/10/2024,Asia,India,Delhi,Ghaziabad,C782,Customer_782,Electronics,Inspiron 15,Dell,3,45000,20%,108000,12960,Cash
+1783,1/22/2024,Asia,India,Delhi,Ghaziabad,C783,Customer_783,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,Cash
+1784,1/17/2024,Asia,India,Madhya Pradesh,Jabalpur,C784,Customer_784,Furniture,OfficeDesk,Featherlite,3,55000,20%,132000,15840,UPI
+1785,1/9/2024,Asia,India,Maharashtra,Pune,C785,Customer_785,Furniture,OfficeDesk,Featherlite,5,45000,10%,202500,24300,UPI
+1786,1/6/2024,Asia,India,Delhi,Noida,C786,Customer_786,Electronics,iPhone 15,Apple,3,55000,20%,132000,15840,Net Banking
+1787,1/24/2024,Asia,India,Madhya Pradesh,Jabalpur,C787,Customer_787,Furniture,OfficeDesk,Featherlite,3,8000,10%,21600,2592,Net Banking
+1788,1/29/2024,Asia,India,Delhi,Ghaziabad,C788,Customer_788,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,Credit Card
+1789,1/22/2024,Asia,India,Gujarat,Vadodara,C789,Customer_789,Electronics,Inspiron 15,Dell,1,8000,20%,6400,768,Net Banking
+1790,1/16/2024,Asia,India,Madhya Pradesh,Gwalior,C790,Customer_790,Furniture,ErgoChair,IKEA,3,55000,5%,156750,18810,Credit Card
+1791,1/24/2024,Asia,India,Delhi,Ghaziabad,C791,Customer_791,Electronics,iPhone 15,Apple,5,55000,5%,261250,31350,Credit Card
+1792,1/20/2024,Asia,India,Delhi,New Delhi,C792,Customer_792,Electronics,iPhone 15,Apple,2,55000,10%,99000,11880,Net Banking
+1793,1/7/2024,Asia,India,Maharashtra,Nagpur,C793,Customer_793,Electronics,iPhone 15,Apple,4,12000,10%,43200,5184,UPI
+1794,1/1/2024,Asia,India,Gujarat,Ahmedabad,C794,Customer_794,Electronics,Inspiron 15,Dell,2,45000,5%,85500,10260,Cash
+1795,1/31/2024,Asia,India,Maharashtra,Nagpur,C795,Customer_795,Electronics,iPhone 15,Apple,2,45000,20%,72000,8640,Net Banking
+1796,1/26/2024,Asia,India,Madhya Pradesh,Indore,C796,Customer_796,Electronics,iPhone 15,Apple,2,12000,10%,21600,2592,UPI
+1797,1/20/2024,Asia,India,Madhya Pradesh,Indore,C797,Customer_797,Electronics,Inspiron 15,Dell,3,55000,20%,132000,15840,Credit Card
+1798,1/7/2024,Asia,India,Madhya Pradesh,Gwalior,C798,Customer_798,Furniture,ErgoChair,IKEA,2,8000,20%,12800,1536,Credit Card
+1799,1/26/2024,Asia,India,Maharashtra,Mumbai,C799,Customer_799,Electronics,Inspiron 15,Dell,1,8000,5%,7600,912,Net Banking
+1800,1/8/2024,Asia,India,Gujarat,Vadodara,C800,Customer_800,Furniture,ErgoChair,IKEA,3,55000,5%,156750,18810,UPI
+1801,1/4/2024,Asia,India,Gujarat,Vadodara,C801,Customer_801,Furniture,ErgoChair,IKEA,2,12000,5%,22800,2736,Cash
+1802,1/30/2024,Asia,India,Delhi,Ghaziabad,C802,Customer_802,Furniture,ErgoChair,IKEA,5,45000,20%,180000,21600,Net Banking
+1803,1/19/2024,Asia,India,Delhi,Ghaziabad,C803,Customer_803,Furniture,ErgoChair,IKEA,3,12000,5%,34200,4104,Net Banking
+1804,1/9/2024,Asia,India,Madhya Pradesh,Gwalior,C804,Customer_804,Furniture,ErgoChair,IKEA,2,12000,20%,19200,2304,Cash
+1805,1/24/2024,Asia,India,Gujarat,Ahmedabad,C805,Customer_805,Electronics,Inspiron 15,Dell,5,8000,10%,36000,4320,Credit Card
+1806,1/17/2024,Asia,India,Delhi,Noida,C806,Customer_806,Electronics,iPhone 15,Apple,1,45000,10%,40500,4860,Cash
+1807,1/18/2024,Asia,India,Gujarat,Surat,C807,Customer_807,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Credit Card
+1808,1/20/2024,Asia,India,Delhi,Noida,C808,Customer_808,Electronics,iPhone 15,Apple,5,55000,5%,261250,31350,Cash
+1809,1/3/2024,Asia,India,Madhya Pradesh,Indore,C809,Customer_809,Furniture,OfficeDesk,Featherlite,5,12000,20%,48000,5760,Net Banking
+1810,1/2/2024,Asia,India,Gujarat,Vadodara,C810,Customer_810,Furniture,OfficeDesk,Featherlite,4,12000,5%,45600,5472,Cash
+1811,1/13/2024,Asia,India,Gujarat,Vadodara,C811,Customer_811,Furniture,ErgoChair,IKEA,4,55000,10%,198000,23760,Cash
+1812,1/31/2024,Asia,India,Delhi,Ghaziabad,C812,Customer_812,Furniture,OfficeDesk,Featherlite,4,55000,20%,176000,21120,Cash
+1813,1/9/2024,Asia,India,Delhi,Ghaziabad,C813,Customer_813,Furniture,ErgoChair,IKEA,3,8000,10%,21600,2592,Credit Card
+1814,1/21/2024,Asia,India,Madhya Pradesh,Jabalpur,C814,Customer_814,Furniture,ErgoChair,IKEA,5,8000,20%,32000,3840,UPI
+1815,1/7/2024,Asia,India,Maharashtra,Mumbai,C815,Customer_815,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Credit Card
+1816,1/25/2024,Asia,India,Maharashtra,Nagpur,C816,Customer_816,Furniture,ErgoChair,IKEA,2,55000,10%,99000,11880,UPI
+1817,1/5/2024,Asia,India,Delhi,Noida,C817,Customer_817,Electronics,iPhone 15,Apple,1,12000,20%,9600,1152,UPI
+1818,1/25/2024,Asia,India,Madhya Pradesh,Bhopal,C818,Customer_818,Electronics,iPhone 15,Apple,4,45000,10%,162000,19440,Credit Card
+1819,1/23/2024,Asia,India,Gujarat,Ahmedabad,C819,Customer_819,Electronics,iPhone 15,Apple,3,45000,5%,128250,15390,Cash
+1820,1/6/2024,Asia,India,Madhya Pradesh,Indore,C820,Customer_820,Furniture,OfficeDesk,Featherlite,3,55000,10%,148500,17820,Credit Card
+1821,1/4/2024,Asia,India,Maharashtra,Nagpur,C821,Customer_821,Furniture,OfficeDesk,Featherlite,3,45000,20%,108000,12960,Net Banking
+1822,1/14/2024,Asia,India,Gujarat,Surat,C822,Customer_822,Furniture,ErgoChair,IKEA,2,45000,20%,72000,8640,Credit Card
+1823,1/19/2024,Asia,India,Madhya Pradesh,Gwalior,C823,Customer_823,Furniture,ErgoChair,IKEA,3,8000,20%,19200,2304,UPI
+1824,1/26/2024,Asia,India,Madhya Pradesh,Bhopal,C824,Customer_824,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Credit Card
+1825,1/5/2024,Asia,India,Maharashtra,Pune,C825,Customer_825,Electronics,Inspiron 15,Dell,3,12000,5%,34200,4104,UPI
+1826,1/10/2024,Asia,India,Delhi,Noida,C826,Customer_826,Furniture,ErgoChair,IKEA,3,12000,20%,28800,3456,Net Banking
+1827,1/15/2024,Asia,India,Madhya Pradesh,Bhopal,C827,Customer_827,Furniture,ErgoChair,IKEA,4,8000,5%,30400,3648,Cash
+1828,1/17/2024,Asia,India,Madhya Pradesh,Bhopal,C828,Customer_828,Furniture,OfficeDesk,Featherlite,1,55000,20%,44000,5280,Credit Card
+1829,1/18/2024,Asia,India,Delhi,Noida,C829,Customer_829,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,Credit Card
+1830,1/24/2024,Asia,India,Maharashtra,Nagpur,C830,Customer_830,Furniture,ErgoChair,IKEA,4,12000,20%,38400,4608,Net Banking
+1831,1/16/2024,Asia,India,Maharashtra,Nagpur,C831,Customer_831,Furniture,ErgoChair,IKEA,5,12000,5%,57000,6840,Net Banking
+1832,1/17/2024,Asia,India,Maharashtra,Mumbai,C832,Customer_832,Electronics,iPhone 15,Apple,1,55000,5%,52250,6270,Credit Card
+1833,1/2/2024,Asia,India,Maharashtra,Pune,C833,Customer_833,Electronics,Inspiron 15,Dell,3,45000,10%,121500,14580,Credit Card
+1834,1/15/2024,Asia,India,Maharashtra,Pune,C834,Customer_834,Electronics,Inspiron 15,Dell,3,12000,10%,32400,3888,Cash
+1835,1/15/2024,Asia,India,Delhi,New Delhi,C835,Customer_835,Electronics,Inspiron 15,Dell,5,45000,20%,180000,21600,Net Banking
+1836,1/20/2024,Asia,India,Delhi,Noida,C836,Customer_836,Furniture,ErgoChair,IKEA,4,8000,20%,25600,3072,Cash
+1837,1/1/2024,Asia,India,Madhya Pradesh,Gwalior,C837,Customer_837,Electronics,iPhone 15,Apple,1,8000,5%,7600,912,Net Banking
+1838,1/17/2024,Asia,India,Maharashtra,Nagpur,C838,Customer_838,Furniture,ErgoChair,IKEA,4,8000,20%,25600,3072,UPI
+1839,1/4/2024,Asia,India,Madhya Pradesh,Indore,C839,Customer_839,Furniture,OfficeDesk,Featherlite,5,55000,10%,247500,29700,Net Banking
+1840,1/16/2024,Asia,India,Madhya Pradesh,Bhopal,C840,Customer_840,Electronics,Inspiron 15,Dell,5,45000,5%,213750,25650,Cash
+1841,1/4/2024,Asia,India,Gujarat,Surat,C841,Customer_841,Electronics,iPhone 15,Apple,5,55000,5%,261250,31350,Credit Card
+1842,1/22/2024,Asia,India,Gujarat,Ahmedabad,C842,Customer_842,Electronics,Inspiron 15,Dell,4,12000,10%,43200,5184,Net Banking
+1843,1/12/2024,Asia,India,Maharashtra,Nagpur,C843,Customer_843,Furniture,OfficeDesk,Featherlite,2,8000,5%,15200,1824,UPI
+1844,1/31/2024,Asia,India,Maharashtra,Pune,C844,Customer_844,Electronics,Inspiron 15,Dell,5,45000,5%,213750,25650,UPI
+1845,1/29/2024,Asia,India,Gujarat,Vadodara,C845,Customer_845,Electronics,iPhone 15,Apple,3,55000,5%,156750,18810,UPI
+1846,1/30/2024,Asia,India,Delhi,New Delhi,C846,Customer_846,Electronics,Inspiron 15,Dell,5,8000,5%,38000,4560,UPI
+1847,1/8/2024,Asia,India,Gujarat,Surat,C847,Customer_847,Electronics,Inspiron 15,Dell,4,8000,5%,30400,3648,Cash
+1848,1/29/2024,Asia,India,Gujarat,Surat,C848,Customer_848,Electronics,iPhone 15,Apple,4,12000,10%,43200,5184,Credit Card
+1849,1/2/2024,Asia,India,Gujarat,Surat,C849,Customer_849,Furniture,ErgoChair,IKEA,1,12000,20%,9600,1152,Net Banking
+1850,1/15/2024,Asia,India,Madhya Pradesh,Jabalpur,C850,Customer_850,Electronics,Inspiron 15,Dell,4,12000,10%,43200,5184,Credit Card
+1851,1/18/2024,Asia,India,Gujarat,Surat,C851,Customer_851,Electronics,Inspiron 15,Dell,2,12000,5%,22800,2736,Net Banking
+1852,1/4/2024,Asia,India,Delhi,Ghaziabad,C852,Customer_852,Electronics,iPhone 15,Apple,3,12000,10%,32400,3888,Credit Card
+1853,1/26/2024,Asia,India,Maharashtra,Pune,C853,Customer_853,Electronics,iPhone 15,Apple,4,45000,20%,144000,17280,Cash
+1854,1/21/2024,Asia,India,Maharashtra,Pune,C854,Customer_854,Electronics,iPhone 15,Apple,2,45000,10%,81000,9720,Cash
+1855,1/22/2024,Asia,India,Madhya Pradesh,Bhopal,C855,Customer_855,Electronics,iPhone 15,Apple,3,12000,5%,34200,4104,UPI
+1856,1/20/2024,Asia,India,Madhya Pradesh,Bhopal,C856,Customer_856,Electronics,iPhone 15,Apple,3,45000,10%,121500,14580,Cash
+1857,1/14/2024,Asia,India,Maharashtra,Nagpur,C857,Customer_857,Electronics,Inspiron 15,Dell,2,12000,10%,21600,2592,UPI
+1858,1/3/2024,Asia,India,Gujarat,Vadodara,C858,Customer_858,Electronics,Inspiron 15,Dell,2,12000,10%,21600,2592,Credit Card
+1859,1/23/2024,Asia,India,Delhi,Ghaziabad,C859,Customer_859,Furniture,OfficeDesk,Featherlite,4,12000,20%,38400,4608,UPI
+1860,1/18/2024,Asia,India,Gujarat,Surat,C860,Customer_860,Furniture,OfficeDesk,Featherlite,2,8000,20%,12800,1536,Credit Card
+1861,1/27/2024,Asia,India,Delhi,New Delhi,C861,Customer_861,Furniture,OfficeDesk,Featherlite,4,12000,20%,38400,4608,Credit Card
+1862,1/5/2024,Asia,India,Delhi,Ghaziabad,C862,Customer_862,Electronics,iPhone 15,Apple,2,8000,5%,15200,1824,UPI
+1863,1/10/2024,Asia,India,Gujarat,Ahmedabad,C863,Customer_863,Electronics,iPhone 15,Apple,3,12000,10%,32400,3888,Net Banking
+1864,1/27/2024,Asia,India,Delhi,Noida,C864,Customer_864,Furniture,OfficeDesk,Featherlite,4,55000,5%,209000,25080,UPI
+1865,1/9/2024,Asia,India,Delhi,Noida,C865,Customer_865,Electronics,iPhone 15,Apple,3,45000,10%,121500,14580,Net Banking
+1866,1/12/2024,Asia,India,Gujarat,Surat,C866,Customer_866,Electronics,iPhone 15,Apple,3,45000,10%,121500,14580,UPI
+1867,1/26/2024,Asia,India,Gujarat,Vadodara,C867,Customer_867,Furniture,ErgoChair,IKEA,2,12000,5%,22800,2736,Net Banking
+1868,1/13/2024,Asia,India,Delhi,Ghaziabad,C868,Customer_868,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,Cash
+1869,1/25/2024,Asia,India,Maharashtra,Mumbai,C869,Customer_869,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Cash
+1870,1/26/2024,Asia,India,Madhya Pradesh,Indore,C870,Customer_870,Electronics,iPhone 15,Apple,5,8000,20%,32000,3840,UPI
+1871,1/1/2024,Asia,India,Gujarat,Vadodara,C871,Customer_871,Furniture,ErgoChair,IKEA,1,45000,5%,42750,5130,Net Banking
+1872,1/20/2024,Asia,India,Madhya Pradesh,Gwalior,C872,Customer_872,Electronics,iPhone 15,Apple,4,55000,10%,198000,23760,Net Banking
+1873,1/10/2024,Asia,India,Gujarat,Ahmedabad,C873,Customer_873,Furniture,OfficeDesk,Featherlite,3,45000,20%,108000,12960,UPI
+1874,1/2/2024,Asia,India,Maharashtra,Pune,C874,Customer_874,Furniture,OfficeDesk,Featherlite,3,45000,5%,128250,15390,Credit Card
+1875,1/25/2024,Asia,India,Madhya Pradesh,Indore,C875,Customer_875,Furniture,ErgoChair,IKEA,4,55000,10%,198000,23760,Net Banking
+1876,1/2/2024,Asia,India,Madhya Pradesh,Gwalior,C876,Customer_876,Furniture,OfficeDesk,Featherlite,1,55000,5%,52250,6270,Cash
+1877,1/29/2024,Asia,India,Delhi,Ghaziabad,C877,Customer_877,Electronics,iPhone 15,Apple,2,45000,20%,72000,8640,Net Banking
+1878,1/29/2024,Asia,India,Delhi,Ghaziabad,C878,Customer_878,Furniture,ErgoChair,IKEA,3,45000,10%,121500,14580,Net Banking
+1879,1/4/2024,Asia,India,Gujarat,Surat,C879,Customer_879,Electronics,Inspiron 15,Dell,4,12000,5%,45600,5472,Cash
+1880,1/23/2024,Asia,India,Gujarat,Vadodara,C880,Customer_880,Furniture,OfficeDesk,Featherlite,3,55000,10%,148500,17820,Cash
+1881,1/21/2024,Asia,India,Madhya Pradesh,Jabalpur,C881,Customer_881,Furniture,ErgoChair,IKEA,3,55000,20%,132000,15840,Cash
+1882,1/23/2024,Asia,India,Maharashtra,Pune,C882,Customer_882,Electronics,iPhone 15,Apple,4,8000,10%,28800,3456,Cash
+1883,1/29/2024,Asia,India,Delhi,Noida,C883,Customer_883,Furniture,OfficeDesk,Featherlite,5,55000,5%,261250,31350,Cash
+1884,1/22/2024,Asia,India,Gujarat,Ahmedabad,C884,Customer_884,Furniture,OfficeDesk,Featherlite,4,12000,20%,38400,4608,Credit Card
+1885,1/4/2024,Asia,India,Delhi,Ghaziabad,C885,Customer_885,Electronics,iPhone 15,Apple,2,55000,5%,104500,12540,Credit Card
+1886,1/8/2024,Asia,India,Delhi,Noida,C886,Customer_886,Furniture,OfficeDesk,Featherlite,4,12000,20%,38400,4608,Net Banking
+1887,1/12/2024,Asia,India,Madhya Pradesh,Jabalpur,C887,Customer_887,Electronics,Inspiron 15,Dell,5,8000,10%,36000,4320,Cash
+1888,1/11/2024,Asia,India,Gujarat,Vadodara,C888,Customer_888,Electronics,Inspiron 15,Dell,3,8000,5%,22800,2736,Credit Card
+1889,1/23/2024,Asia,India,Gujarat,Surat,C889,Customer_889,Electronics,iPhone 15,Apple,3,12000,20%,28800,3456,Cash
+1890,1/9/2024,Asia,India,Gujarat,Ahmedabad,C890,Customer_890,Furniture,OfficeDesk,Featherlite,1,45000,10%,40500,4860,Cash
+1891,1/18/2024,Asia,India,Madhya Pradesh,Jabalpur,C891,Customer_891,Furniture,ErgoChair,IKEA,4,45000,20%,144000,17280,UPI
+1892,1/4/2024,Asia,India,Madhya Pradesh,Bhopal,C892,Customer_892,Electronics,iPhone 15,Apple,2,55000,20%,88000,10560,Cash
+1893,1/23/2024,Asia,India,Maharashtra,Mumbai,C893,Customer_893,Furniture,OfficeDesk,Featherlite,5,55000,5%,261250,31350,Cash
+1894,1/8/2024,Asia,India,Gujarat,Vadodara,C894,Customer_894,Furniture,OfficeDesk,Featherlite,5,12000,10%,54000,6480,Cash
+1895,1/29/2024,Asia,India,Delhi,Ghaziabad,C895,Customer_895,Electronics,Inspiron 15,Dell,1,55000,5%,52250,6270,Cash
+1896,1/20/2024,Asia,India,Madhya Pradesh,Jabalpur,C896,Customer_896,Furniture,OfficeDesk,Featherlite,2,55000,20%,88000,10560,Net Banking
+1897,1/30/2024,Asia,India,Delhi,New Delhi,C897,Customer_897,Electronics,Inspiron 15,Dell,3,55000,10%,148500,17820,Cash
+1898,1/28/2024,Asia,India,Madhya Pradesh,Jabalpur,C898,Customer_898,Furniture,ErgoChair,IKEA,1,12000,20%,9600,1152,Net Banking
+1899,1/1/2024,Asia,India,Madhya Pradesh,Indore,C899,Customer_899,Furniture,OfficeDesk,Featherlite,2,55000,10%,99000,11880,UPI
+1900,1/4/2024,Asia,India,Madhya Pradesh,Bhopal,C900,Customer_900,Electronics,iPhone 15,Apple,1,55000,10%,49500,5940,Net Banking
+1901,1/8/2024,Asia,India,Delhi,New Delhi,C901,Customer_901,Electronics,Inspiron 15,Dell,5,8000,5%,38000,4560,Credit Card
+1902,1/2/2024,Asia,India,Madhya Pradesh,Indore,C902,Customer_902,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,Net Banking
+1903,1/27/2024,Asia,India,Maharashtra,Mumbai,C903,Customer_903,Furniture,ErgoChair,IKEA,1,45000,10%,40500,4860,Cash
+1904,1/22/2024,Asia,India,Gujarat,Vadodara,C904,Customer_904,Furniture,ErgoChair,IKEA,3,12000,10%,32400,3888,UPI
+1905,1/12/2024,Asia,India,Madhya Pradesh,Indore,C905,Customer_905,Electronics,iPhone 15,Apple,1,55000,5%,52250,6270,Credit Card
+1906,1/22/2024,Asia,India,Maharashtra,Mumbai,C906,Customer_906,Electronics,Inspiron 15,Dell,4,45000,20%,144000,17280,Cash
+1907,1/31/2024,Asia,India,Maharashtra,Pune,C907,Customer_907,Electronics,Inspiron 15,Dell,4,45000,5%,171000,20520,UPI
+1908,1/12/2024,Asia,India,Gujarat,Surat,C908,Customer_908,Furniture,OfficeDesk,Featherlite,5,55000,10%,247500,29700,Cash
+1909,1/19/2024,Asia,India,Maharashtra,Pune,C909,Customer_909,Furniture,OfficeDesk,Featherlite,3,12000,5%,34200,4104,Cash
+1910,1/22/2024,Asia,India,Delhi,Ghaziabad,C910,Customer_910,Electronics,iPhone 15,Apple,1,55000,20%,44000,5280,Net Banking
+1911,1/20/2024,Asia,India,Maharashtra,Pune,C911,Customer_911,Electronics,Inspiron 15,Dell,4,12000,20%,38400,4608,Credit Card
+1912,1/3/2024,Asia,India,Maharashtra,Nagpur,C912,Customer_912,Electronics,iPhone 15,Apple,1,8000,20%,6400,768,Credit Card
+1913,1/21/2024,Asia,India,Gujarat,Ahmedabad,C913,Customer_913,Furniture,ErgoChair,IKEA,2,55000,10%,99000,11880,Net Banking
+1914,1/16/2024,Asia,India,Gujarat,Ahmedabad,C914,Customer_914,Electronics,Inspiron 15,Dell,2,12000,20%,19200,2304,Net Banking
+1915,1/19/2024,Asia,India,Gujarat,Vadodara,C915,Customer_915,Electronics,iPhone 15,Apple,5,12000,5%,57000,6840,UPI
+1916,1/2/2024,Asia,India,Delhi,New Delhi,C916,Customer_916,Furniture,OfficeDesk,Featherlite,2,55000,5%,104500,12540,UPI
+1917,1/12/2024,Asia,India,Gujarat,Surat,C917,Customer_917,Electronics,Inspiron 15,Dell,1,12000,5%,11400,1368,Cash
+1918,1/24/2024,Asia,India,Maharashtra,Mumbai,C918,Customer_918,Electronics,Inspiron 15,Dell,5,12000,20%,48000,5760,Net Banking
+1919,1/22/2024,Asia,India,Delhi,New Delhi,C919,Customer_919,Furniture,ErgoChair,IKEA,5,45000,10%,202500,24300,Net Banking
+1920,1/12/2024,Asia,India,Maharashtra,Pune,C920,Customer_920,Furniture,ErgoChair,IKEA,2,12000,5%,22800,2736,UPI
+1921,1/27/2024,Asia,India,Maharashtra,Nagpur,C921,Customer_921,Furniture,OfficeDesk,Featherlite,1,8000,20%,6400,768,Net Banking
+1922,1/8/2024,Asia,India,Delhi,Noida,C922,Customer_922,Electronics,iPhone 15,Apple,3,8000,20%,19200,2304,Cash
+1923,1/20/2024,Asia,India,Maharashtra,Nagpur,C923,Customer_923,Furniture,OfficeDesk,Featherlite,5,8000,10%,36000,4320,UPI
+1924,1/18/2024,Asia,India,Delhi,Ghaziabad,C924,Customer_924,Electronics,iPhone 15,Apple,5,55000,10%,247500,29700,Credit Card
+1925,1/4/2024,Asia,India,Madhya Pradesh,Indore,C925,Customer_925,Electronics,iPhone 15,Apple,4,12000,20%,38400,4608,UPI
+1926,1/20/2024,Asia,India,Gujarat,Vadodara,C926,Customer_926,Electronics,Inspiron 15,Dell,5,55000,5%,261250,31350,UPI
+1927,1/8/2024,Asia,India,Maharashtra,Nagpur,C927,Customer_927,Furniture,OfficeDesk,Featherlite,1,45000,20%,36000,4320,Cash
+1928,1/6/2024,Asia,India,Gujarat,Surat,C928,Customer_928,Furniture,OfficeDesk,Featherlite,4,8000,20%,25600,3072,Credit Card
+1929,1/14/2024,Asia,India,Madhya Pradesh,Bhopal,C929,Customer_929,Furniture,OfficeDesk,Featherlite,4,55000,20%,176000,21120,Credit Card
+1930,1/20/2024,Asia,India,Madhya Pradesh,Jabalpur,C930,Customer_930,Furniture,ErgoChair,IKEA,4,55000,10%,198000,23760,Net Banking
+1931,1/22/2024,Asia,India,Madhya Pradesh,Jabalpur,C931,Customer_931,Electronics,iPhone 15,Apple,2,45000,10%,81000,9720,Credit Card
+1932,1/24/2024,Asia,India,Madhya Pradesh,Jabalpur,C932,Customer_932,Electronics,iPhone 15,Apple,1,45000,10%,40500,4860,Net Banking
+1933,1/21/2024,Asia,India,Delhi,Noida,C933,Customer_933,Electronics,iPhone 15,Apple,3,8000,10%,21600,2592,Cash
+1934,1/15/2024,Asia,India,Madhya Pradesh,Gwalior,C934,Customer_934,Furniture,OfficeDesk,Featherlite,3,55000,5%,156750,18810,UPI
+1935,1/23/2024,Asia,India,Delhi,Ghaziabad,C935,Customer_935,Furniture,OfficeDesk,Featherlite,2,12000,5%,22800,2736,Cash
+1936,1/26/2024,Asia,India,Gujarat,Ahmedabad,C936,Customer_936,Electronics,iPhone 15,Apple,2,12000,5%,22800,2736,Credit Card
+1937,1/10/2024,Asia,India,Madhya Pradesh,Indore,C937,Customer_937,Furniture,ErgoChair,IKEA,3,12000,10%,32400,3888,Cash
+1938,1/19/2024,Asia,India,Maharashtra,Nagpur,C938,Customer_938,Electronics,Inspiron 15,Dell,1,8000,5%,7600,912,Net Banking
+1939,1/23/2024,Asia,India,Maharashtra,Nagpur,C939,Customer_939,Electronics,iPhone 15,Apple,2,55000,10%,99000,11880,Net Banking
+1940,1/17/2024,Asia,India,Gujarat,Vadodara,C940,Customer_940,Electronics,Inspiron 15,Dell,2,45000,10%,81000,9720,Cash
+1941,1/6/2024,Asia,India,Delhi,New Delhi,C941,Customer_941,Furniture,ErgoChair,IKEA,2,55000,5%,104500,12540,Net Banking
+1942,1/11/2024,Asia,India,Madhya Pradesh,Bhopal,C942,Customer_942,Furniture,ErgoChair,IKEA,1,12000,5%,11400,1368,Net Banking
+1943,1/19/2024,Asia,India,Delhi,Noida,C943,Customer_943,Electronics,Inspiron 15,Dell,3,55000,10%,148500,17820,Cash
+1944,1/19/2024,Asia,India,Maharashtra,Nagpur,C944,Customer_944,Electronics,iPhone 15,Apple,3,45000,10%,121500,14580,Cash
+1945,1/21/2024,Asia,India,Gujarat,Vadodara,C945,Customer_945,Furniture,OfficeDesk,Featherlite,4,12000,5%,45600,5472,Credit Card
+1946,1/4/2024,Asia,India,Gujarat,Surat,C946,Customer_946,Furniture,OfficeDesk,Featherlite,1,12000,10%,10800,1296,UPI
+1947,1/3/2024,Asia,India,Gujarat,Ahmedabad,C947,Customer_947,Furniture,OfficeDesk,Featherlite,4,45000,20%,144000,17280,UPI
+1948,1/26/2024,Asia,India,Madhya Pradesh,Jabalpur,C948,Customer_948,Electronics,iPhone 15,Apple,2,45000,10%,81000,9720,Cash
+1949,1/21/2024,Asia,India,Madhya Pradesh,Indore,C949,Customer_949,Furniture,OfficeDesk,Featherlite,2,45000,20%,72000,8640,Cash
+1950,1/3/2024,Asia,India,Delhi,Noida,C950,Customer_950,Furniture,OfficeDesk,Featherlite,4,8000,10%,28800,3456,Cash
+1951,1/5/2024,Asia,India,Madhya Pradesh,Jabalpur,C951,Customer_951,Furniture,OfficeDesk,Featherlite,4,45000,10%,162000,19440,Cash
+1952,1/10/2024,Asia,India,Delhi,Ghaziabad,C952,Customer_952,Electronics,iPhone 15,Apple,4,8000,5%,30400,3648,Credit Card
+1953,1/25/2024,Asia,India,Delhi,Noida,C953,Customer_953,Furniture,ErgoChair,IKEA,1,12000,10%,10800,1296,Credit Card
+1954,1/20/2024,Asia,India,Maharashtra,Nagpur,C954,Customer_954,Furniture,ErgoChair,IKEA,5,45000,5%,213750,25650,UPI
+1955,1/3/2024,Asia,India,Madhya Pradesh,Gwalior,C955,Customer_955,Furniture,ErgoChair,IKEA,5,12000,20%,48000,5760,Net Banking
+1956,1/14/2024,Asia,India,Madhya Pradesh,Bhopal,C956,Customer_956,Furniture,ErgoChair,IKEA,1,12000,10%,10800,1296,Credit Card
+1957,1/16/2024,Asia,India,Gujarat,Surat,C957,Customer_957,Furniture,ErgoChair,IKEA,2,45000,10%,81000,9720,Net Banking
+1958,1/8/2024,Asia,India,Madhya Pradesh,Bhopal,C958,Customer_958,Electronics,iPhone 15,Apple,5,45000,20%,180000,21600,Cash
+1959,1/25/2024,Asia,India,Delhi,Noida,C959,Customer_959,Furniture,ErgoChair,IKEA,4,55000,5%,209000,25080,UPI
+1960,1/12/2024,Asia,India,Madhya Pradesh,Bhopal,C960,Customer_960,Furniture,OfficeDesk,Featherlite,5,45000,20%,180000,21600,Net Banking
+1961,1/3/2024,Asia,India,Madhya Pradesh,Jabalpur,C961,Customer_961,Furniture,OfficeDesk,Featherlite,3,8000,20%,19200,2304,Cash
+1962,1/5/2024,Asia,India,Madhya Pradesh,Jabalpur,C962,Customer_962,Furniture,ErgoChair,IKEA,1,45000,5%,42750,5130,UPI
+1963,1/7/2024,Asia,India,Maharashtra,Nagpur,C963,Customer_963,Furniture,OfficeDesk,Featherlite,4,12000,5%,45600,5472,UPI
+1964,1/7/2024,Asia,India,Madhya Pradesh,Bhopal,C964,Customer_964,Electronics,Inspiron 15,Dell,1,55000,10%,49500,5940,Net Banking
+1965,1/15/2024,Asia,India,Maharashtra,Mumbai,C965,Customer_965,Electronics,Inspiron 15,Dell,3,12000,10%,32400,3888,Credit Card
+1966,1/23/2024,Asia,India,Maharashtra,Pune,C966,Customer_966,Furniture,OfficeDesk,Featherlite,2,8000,5%,15200,1824,Credit Card
+1967,1/9/2024,Asia,India,Madhya Pradesh,Indore,C967,Customer_967,Furniture,ErgoChair,IKEA,4,12000,20%,38400,4608,Cash
+1968,1/15/2024,Asia,India,Delhi,Ghaziabad,C968,Customer_968,Electronics,Inspiron 15,Dell,5,12000,10%,54000,6480,Credit Card
+1969,1/30/2024,Asia,India,Maharashtra,Nagpur,C969,Customer_969,Furniture,OfficeDesk,Featherlite,3,12000,5%,34200,4104,UPI
+1970,1/2/2024,Asia,India,Delhi,New Delhi,C970,Customer_970,Furniture,ErgoChair,IKEA,4,12000,20%,38400,4608,Cash
+1971,1/27/2024,Asia,India,Madhya Pradesh,Bhopal,C971,Customer_971,Electronics,iPhone 15,Apple,1,55000,5%,52250,6270,Credit Card
+1972,1/28/2024,Asia,India,Gujarat,Ahmedabad,C972,Customer_972,Electronics,Inspiron 15,Dell,3,8000,20%,19200,2304,Credit Card
+1973,1/31/2024,Asia,India,Gujarat,Ahmedabad,C973,Customer_973,Furniture,ErgoChair,IKEA,2,55000,5%,104500,12540,Net Banking
+1974,1/2/2024,Asia,India,Madhya Pradesh,Bhopal,C974,Customer_974,Furniture,OfficeDesk,Featherlite,5,55000,20%,220000,26400,Cash
+1975,1/20/2024,Asia,India,Maharashtra,Mumbai,C975,Customer_975,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,Net Banking
+1976,1/31/2024,Asia,India,Delhi,New Delhi,C976,Customer_976,Furniture,ErgoChair,IKEA,5,12000,10%,54000,6480,UPI
+1977,1/18/2024,Asia,India,Delhi,Noida,C977,Customer_977,Furniture,ErgoChair,IKEA,1,12000,10%,10800,1296,UPI
+1978,1/17/2024,Asia,India,Maharashtra,Mumbai,C978,Customer_978,Electronics,iPhone 15,Apple,3,45000,20%,108000,12960,Credit Card
+1979,1/13/2024,Asia,India,Gujarat,Surat,C979,Customer_979,Furniture,OfficeDesk,Featherlite,1,12000,5%,11400,1368,Net Banking
+1980,1/19/2024,Asia,India,Madhya Pradesh,Jabalpur,C980,Customer_980,Furniture,OfficeDesk,Featherlite,2,12000,10%,21600,2592,Credit Card
+1981,1/30/2024,Asia,India,Gujarat,Ahmedabad,C981,Customer_981,Furniture,OfficeDesk,Featherlite,2,45000,10%,81000,9720,Credit Card
+1982,1/22/2024,Asia,India,Maharashtra,Mumbai,C982,Customer_982,Furniture,ErgoChair,IKEA,3,8000,10%,21600,2592,Credit Card
+1983,1/4/2024,Asia,India,Delhi,New Delhi,C983,Customer_983,Furniture,ErgoChair,IKEA,4,45000,10%,162000,19440,Credit Card
+1984,1/23/2024,Asia,India,Madhya Pradesh,Indore,C984,Customer_984,Furniture,OfficeDesk,Featherlite,4,8000,10%,28800,3456,Credit Card
+1985,1/29/2024,Asia,India,Delhi,New Delhi,C985,Customer_985,Furniture,ErgoChair,IKEA,2,8000,20%,12800,1536,UPI
+1986,1/12/2024,Asia,India,Delhi,Noida,C986,Customer_986,Electronics,Inspiron 15,Dell,2,45000,10%,81000,9720,Credit Card
+1987,1/27/2024,Asia,India,Maharashtra,Nagpur,C987,Customer_987,Furniture,ErgoChair,IKEA,1,55000,10%,49500,5940,UPI
+1988,1/16/2024,Asia,India,Maharashtra,Pune,C988,Customer_988,Furniture,ErgoChair,IKEA,1,45000,20%,36000,4320,Net Banking
+1989,1/11/2024,Asia,India,Maharashtra,Mumbai,C989,Customer_989,Furniture,ErgoChair,IKEA,2,12000,20%,19200,2304,Credit Card
+1990,1/22/2024,Asia,India,Delhi,Noida,C990,Customer_990,Furniture,OfficeDesk,Featherlite,2,55000,20%,88000,10560,Cash
+1991,1/20/2024,Asia,India,Madhya Pradesh,Jabalpur,C991,Customer_991,Electronics,iPhone 15,Apple,4,45000,20%,144000,17280,UPI
+1992,1/11/2024,Asia,India,Delhi,Ghaziabad,C992,Customer_992,Furniture,ErgoChair,IKEA,5,8000,20%,32000,3840,Net Banking
+1993,1/20/2024,Asia,India,Delhi,Ghaziabad,C993,Customer_993,Furniture,ErgoChair,IKEA,3,45000,10%,121500,14580,Credit Card
+1994,1/1/2024,Asia,India,Maharashtra,Mumbai,C994,Customer_994,Furniture,OfficeDesk,Featherlite,5,45000,10%,202500,24300,UPI
+1995,1/25/2024,Asia,India,Maharashtra,Pune,C995,Customer_995,Furniture,ErgoChair,IKEA,5,45000,20%,180000,21600,Net Banking
+1996,1/20/2024,Asia,India,Madhya Pradesh,Indore,C996,Customer_996,Furniture,OfficeDesk,Featherlite,3,55000,10%,148500,17820,Cash
+1997,1/31/2024,Asia,India,Maharashtra,Pune,C997,Customer_997,Electronics,Inspiron 15,Dell,3,12000,5%,34200,4104,Net Banking
+1998,1/17/2024,Asia,India,Maharashtra,Pune,C998,Customer_998,Electronics,iPhone 15,Apple,1,55000,20%,44000,5280,Net Banking
+1999,1/7/2024,Asia,India,Maharashtra,Nagpur,C999,Customer_999,Electronics,Inspiron 15,Dell,2,8000,5%,15200,1824,Cash
+2000,1/27/2024,Asia,India,Madhya Pradesh,Indore,C1000,Customer_1000,Electronics,iPhone 15,Apple,2,8000,10%,14400,1728,Cash
