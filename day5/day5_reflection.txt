@@ -1,0 +1,9 @@
+Today was mentally heavy. I worked with a real cricket match dataset and initially felt lost because I did not fully understand what a DataFrame and Series actually are. I realized I was using Pandas commands without understanding the structure behind them.
+
+During debugging, I learned that a DataFrame is a 2D table and each column is a Series. When comparing two columns, Pandas performs element-wise operations and returns a boolean Series. This clarified how filtering works internally.
+
+I also learned that missing values are not always “bad data” — sometimes they represent meaningful cases like abandoned or tied matches. I understood why we should not blindly replace NaN values with 0, because that can distort interpretation.
+
+The biggest confusion today was around how Pandas operations happen without loops and how boolean masking works. After breaking it down into small examples, it became clearer.
+
+Even though I felt confused at times, I now understand the structure better than before. I need more practice with grouping and interpreting results rather than just printing numbers.
